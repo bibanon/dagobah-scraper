@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from pyquery import PyQuery
 import re
 from sys import argv
 from os import path
@@ -8,10 +9,16 @@ from datetime import datetime
 # file manipulation and download libraries
 from utils import *
 
+"""Folder names"""
+WORK_DIR = "dagobah"                                        # working directory
+GALLERY_DIR = path.join(WORK_DIR, "gallery")   # gallery JSON directory
+
 # add comments and tags to the items of the gallery
 def metadator(first_page, last_page):
     pages = []
     for p in range(first_page, last_page + 1):
+        print("Downloading comments for page #%d..." % p)
+        
         # grab a page
         page = json2object(path.join(GALLERY_DIR, '%s.json' % p))
         
@@ -31,7 +38,7 @@ def comments2object(gallery_page):
             "filename": "1_wildcard.swf",
             "username": "TecDax",
             "timestamp": "2009-09-01 04:31",
-            "comment": "Why is this not a game?"
+            "text": "Why is this not a game?"
         }
     ]
     """
@@ -64,7 +71,11 @@ def comments2object(gallery_page):
                 if j == 12:
                     item['tags'] = []
                     for tag in re.split(r' - ', span.text()):
-                        item['tags'].append(tag)
+                        # some items use youtube embeds as a supplement, store that
+                        if re.search('^v=.+$', tag):
+                            item['youtube_id'] = re.sub('^v=', '', tag)
+                        else:
+                            item['tags'].append(tag)
 
                     print(item['filename'])
                     print(item['tags'])
@@ -103,10 +114,9 @@ def comments2object(gallery_page):
 if __name__ == '__main__':
     # check for arguments
     if len(argv) == 3:
-        first_page = argv[1]
-        last_page = argv[2]
+        first_page = int(argv[1])
+        last_page = int(argv[2])
         
-        print("Adding comments and tags to the gallery...")
         metadator(first_page, last_page)
     else:
         print "Usage: %s <first_page> <last_page>" % argv[0]

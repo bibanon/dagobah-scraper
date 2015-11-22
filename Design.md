@@ -8,7 +8,60 @@ I'm putting together this scraper to grab any kind of paginated gallery and scra
 
 The Macrochan Scraper was a set of quick and dirty scraper scripts that pulls off of the site and 
 
-## DB Schema for Dagobah
+## The Depaginator
+
+The proposed **BASC Depaginator** will be an all purpose, fully configurable tool for archiving paginated image/file galleries. 
+
+These sites do not lend themselves well to archival with a brute-force scraper, since they often end up falling into infinite loops, or fail to grab everything, often ending up with piles of useless data.
+
+In addition, they often rely on complex display systems that were made to be easy for humans to use, but create horrific spaghetti code for any robot to parse through. Finally, these robots add significant strain to the server.
+
+The Depaginator has several tasks:
+
+1. Create a SQLite database with a schema that fits the task of storing and reporting the metadata we want.
+2. Parse the paginated galleries one page at a time. This will usually lead you to a URL of the image/file viewer (which can be stored in the database), though sometimes you may be lucky enough to get some extra metadata.
+  * Store the URLs in the database along with the filename as the primary key.
+3. Grab all URLs from the database and access each image/file viewer page. From here, grab as much metadata as possible, grab a link to the actual image, and store it in the database.
+  * For items such as tags or categories, a separate linking table with a one to many relationship from tag to file may be necessary.
+4. Download all images from the website. It might be helpful to generate a txt dump of all file URLs, so they can be grabbed using Wget or grab-site.
+
+### Database Manager
+
+This time, this is a good chance to learn some SQLAlchemy. It's the better way to work with SQL.
+
+### Gallery Parser
+
+This parser generates a list of all files in the gallery. Generally, it grabs a certain amount of image URLs from one page, then jumps to the next page and grabs again, and so on. 
+
+The user sets the total amount of pages in the site. If the site doesn't tell you, you'll have to figure it out by going to the final page possible.
+
+On Dagobah, the format is as follows for page 3: `http://dagobah.net/?page=3&o=n&d=i`
+
+### Image Nabber
+
+In this step, we actually go into the Image View URLs in question and extract any metadata from there, especially the actual Image URLs.
+
+You could also download images in this set in this step, but it is better to grab all the URLs and metadata first here.
+
+### Comment Scraper
+
+Thankfully, Dagobah has a simple URL scheme where every single image at `http://dagobah.net/flash/404.swf` has a comments section at `http://dagobah.net/flash/404.swf/comments`.
+
+Thus, we can create a `comments` table with a foreign key `filename` that links each comment to the record in the `files` table.
+
+### Export to JSON or TXT
+
+The final step is to export all image URLs to TXT, or a JSON file which can have the Image/File Viewer URLs as well. This makes it possible to use an external tool such as `wget` for the images, or grab-site, which creates WARCs.
+
+### Scraper
+
+Alternatively, we could make a specific downloader which will handle the scraping. This makes it possible to set certain ranges to download, to spread the archival workload across machines for parallel scraping and diversity in IP ranges.
+
+
+Dagobah Scraping Process
+------------------------
+
+The scraping progress for Dagobah ended up being pretty involved, but it was worth the effort to archive all metadata and tags.
 
 ### Gallery Parsing
 
@@ -126,51 +179,6 @@ if i == 2:
 
 Finally, to serialize the data for programs to use: instead of printing the data, we simply store it in a dictionary.
 
-### Table `files`
-
-```
-// example JSON object:
-[
-    {
-        "filename": "4chan_vs_reddit.swf",
-        "id": "f14075",
-        "title": "4chan vs reddit",
-        "tags": [
-            'Misc', 
-            'rule_no_1'
-        ]
-        "rating": 3.7,
-        "raters": 26,
-        "views": 1754,
-        "commentamt": 8,
-        "comments": [],
-        "size": "9.8",  // always in MB, KB represented in decimal
-        "date": "2015-05-22",
-        "youtubeid": ""
-    }
-]
-```
-
-* `filename` (Primary Key) - The filename is always unique, and forms the URL.
-  * _Gallery_ - Found in `<a href="/flash/3_anime_songs.swf" id="f10166" class="flash"></a>`
-* `id` - Flash ID as displayed in the gallery. It is also a candidate for the primary key, but since filename is always unique we chose to use that instead, since it's more descriptive.
-  * _Gallery_ - Found in `<a href="/flash/3_anime_songs.swf" id="f10166" class="flash"></a>`
-* `title` - The Title of the flash file.
-  * _Gallery_ - Found in `<span class="flashname">3 anime songs</span>`
-  * _Viewer_ - Found in `<span class="fontFlashname" id="flash_otsikko">404</span>`, where `404` is the name
-* `rating` - A float value from 1-5.
-  * _Gallery_ - 
-  * _Viewer_ - Found in `<li class="current-rating">Currently 3.39/5</li>`.
-* `raters` - Amount of people who actually rated the post.
-  * _Gallery_
-  * Found in `<span class="votedxtimes">(123 votes)</span>`
-* `size` - Filesize of the item. To keep the data consistent, all kilobyte entries are converted to floating point megabytes.
-  * _Gallery_
-* `date` - ISO posting date of the item, in `YYYY-MM-DD`
-  * _Gallery_
-* `youtubeid` (optional) - Some newer Dagobah links provide a YouTube embed instead. Get the ID from it.
-  * _Viewer_ 
-
 ## Comment Page Parsing
 
 Each file has a Comment Page, which contains an infobox with all full tags associated with the item (contained in `div#flashmenu` just like the gallery), and comments of course.
@@ -218,6 +226,115 @@ The Comment page has a more complete tag list, so we will use that with Paginati
 [11]: tags:
 ```
 
+Dagobah Table/JSON Schemas
+--------------------------
+
+This is a description of the data formats we used in the metadata dumps.
+
+### JSON Schema
+
+In the end, we elected to store each page in a JSON file, to make it more human readable, continuable, and parsable far into the future. Comments/Tags are added in the second run.
+
+We can convert it to a SQL database after all data gets scraped.
+
+
+```
+[
+    {
+        "comment_amt": 3,
+        "comments": [
+            {
+                "date": "2015-07-28",
+                "text": "What is this song?",
+                "time": "07:26:00",
+                "title": "",
+                "username": "Sotishima"
+            },
+            {
+                "date": "2015-07-28",
+                "text": "my ears hurt :[",
+                "time": "15:50:00",
+                "title": "",
+                "username": "lakithunder562"
+            },
+            {
+                "date": "2015-07-30",
+                "text": "this is amazing, source?",
+                "time": "16:39:00",
+                "title": "",
+                "username": "Name"
+            }
+        ],
+        "date": "2015-07-27",
+        "filename": "anon_partyhard174.swf",
+        "id": "f14237",
+        "raters": 26,
+        "rating": 1.9,
+        "size": 4.9,
+        "tags": [
+            "Loop",
+            "NSFW"
+        ],
+        "title": "anon partyhard174",
+        "views": 1666,
+        "youtube_id": ""
+    }
+]
+```
+
+### URL Schema
+
+* `http://dagobah.net/flash/404.swf` - File viewing URL.
+* `http://dagobah.net/flash/download/404.swf` - File download URL.
+* `http://dagobah.net/flashswf/404.swf` - File embed URL.
+* `http://dagobah.net/flash/404.swf/comments` - Comment URL.
+* `http://dagobah.net/t100/404.swf` - 100x100px thumbnail URL.
+
+### Table `files`
+
+```
+// example JSON object:
+[
+    {
+        "filename": "4chan_vs_reddit.swf",
+        "id": "f14075",
+        "title": "4chan vs reddit",
+        "tags": [
+            'Misc', 
+            'rule_no_1'
+        ]
+        "rating": 3.7,
+        "raters": 26,
+        "views": 1754,
+        "commentamt": 8,
+        "comments": [],
+        "size": "9.8",  // always in MB, KB represented in decimal
+        "date": "2015-05-22",
+        "youtubeid": ""
+    }
+]
+```
+
+* `filename` (Primary Key) - The filename is always unique, and forms the URL.
+  * _Gallery_ - Found in `<a href="/flash/3_anime_songs.swf" id="f10166" class="flash"></a>`
+* `id` - Flash ID as displayed in the gallery. It is also a candidate for the primary key, but since filename is always unique we chose to use that instead, since it's more descriptive.
+  * _Gallery_ - Found in `<a href="/flash/3_anime_songs.swf" id="f10166" class="flash"></a>`
+* `title` - The Title of the flash file.
+  * _Gallery_ - Found in `<span class="flashname">3 anime songs</span>`
+  * _Viewer_ - Found in `<span class="fontFlashname" id="flash_otsikko">404</span>`, where `404` is the name
+* `rating` - A float value from 1-5.
+  * _Gallery_ - 
+  * _Viewer_ - Found in `<li class="current-rating">Currently 3.39/5</li>`.
+* `raters` - Amount of people who actually rated the post.
+  * _Gallery_
+  * Found in `<span class="votedxtimes">(123 votes)</span>`
+* `size` - Filesize of the item. To keep the data consistent, all kilobyte entries are converted to floating point megabytes.
+  * _Gallery_
+* `date` - ISO posting date of the item, in `YYYY-MM-DD`
+  * _Gallery_
+* `youtubeid` (optional) - Some newer Dagobah links provide a YouTube embed instead. Get the ID from it.
+  * _Viewer_ 
+
 ### Table `comments`
 
 A table listing all comments attached to an item.
@@ -236,61 +353,3 @@ A one-to-many linking table should be used to store tags.
 * `filename` (Foreign Key) - The filename that the tag will be associated with.
 * `tag` - One tag that the filename will be associated with. Not unique.
   * This should probably be extracted from the comments page (which has the full list), not the viewer page.
-
-### URL Schema
-
-* `http://dagobah.net/flash/404.swf` - File viewing URL.
-* `http://dagobah.net/flash/download/404.swf` - File download URL.
-* `http://dagobah.net/flashswf/404.swf` - File embed URL.
-* `http://dagobah.net/flash/404.swf/comments` - Comment URL.
-* `http://dagobah.net/t100/404.swf` - 100x100px thumbnail URL.
-
-## The Depaginator
-
-The proposed **BASC Depaginator** will be an all purpose, fully configurable tool for archiving paginated image/file galleries. 
-
-These sites do not lend themselves well to archival with a brute-force scraper, since they often end up falling into infinite loops, or fail to grab everything, often ending up with piles of useless data.
-
-In addition, they often rely on complex display systems that were made to be easy for humans to use, but create horrific spaghetti code for any robot to parse through. Finally, these robots add significant strain to the server.
-
-The Depaginator has several tasks:
-
-1. Create a SQLite database with a schema that fits the task of storing and reporting the metadata we want.
-2. Parse the paginated galleries one page at a time. This will usually lead you to a URL of the image/file viewer (which can be stored in the database), though sometimes you may be lucky enough to get some extra metadata.
-  * Store the URLs in the database along with the filename as the primary key.
-3. Grab all URLs from the database and access each image/file viewer page. From here, grab as much metadata as possible, grab a link to the actual image, and store it in the database.
-  * For items such as tags or categories, a separate linking table with a one to many relationship from tag to file may be necessary.
-4. Download all images from the website. It might be helpful to generate a txt dump of all file URLs, so they can be grabbed using Wget or grab-site.
-
-### Database Manager
-
-This time, this is a good chance to learn some SQLAlchemy. It's the better way to work with SQL.
-
-### Gallery Parser
-
-This parser generates a list of all files in the gallery. Generally, it grabs a certain amount of image URLs from one page, then jumps to the next page and grabs again, and so on. 
-
-The user sets the total amount of pages in the site. If the site doesn't tell you, you'll have to figure it out by going to the final page possible.
-
-On Dagobah, the format is as follows for page 3: `http://dagobah.net/?page=3&o=n&d=i`
-
-### Image Nabber
-
-In this step, we actually go into the Image View URLs in question and extract any metadata from there, especially the actual Image URLs.
-
-You could also download images in this set in this step, but it is better to grab all the URLs and metadata first here.
-
-### Comment Scraper
-
-Thankfully, Dagobah has a simple URL scheme where every single image at `http://dagobah.net/flash/404.swf` has a comments section at `http://dagobah.net/flash/404.swf/comments`.
-
-Thus, we can create a `comments` table with a foreign key `filename` that links each comment to the record in the `files` table.
-
-### Export to JSON or TXT
-
-The final step is to export all image URLs to TXT, or a JSON file which can have the Image/File Viewer URLs as well. This makes it possible to use an external tool such as `wget` for the images, or grab-site, which creates WARCs.
-
-### Scraper
-
-Alternatively, we could make a specific downloader which will handle the scraping. This makes it possible to set certain ranges to download, to spread the archival workload across machines for parallel scraping and diversity in IP ranges.
-

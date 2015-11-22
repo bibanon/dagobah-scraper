@@ -1,602 +1,3873 @@
 [
     {
-        "comment_amt": 1,
-        "comments": [],
-        "date": "2010-07-10",
-        "filename": "-O_O-.swf",
-        "id": "f6840",
-        "raters": 51,
-        "rating": 2.8,
-        "size": 0.105,
-        "title": "-O O-",
-        "views": 5865
-    },
-    {
-        "comment_amt": 9,
-        "comments": [],
-        "date": "2010-01-11",
-        "filename": "0-ny.swf",
-        "id": "f5208",
-        "raters": 88,
-        "rating": 3.4,
-        "size": 0.168,
-        "title": "0-ny",
-        "views": 6656
-    },
-    {
-        "comment_amt": 0,
-        "comments": [],
-        "date": "2007-02-12",
-        "filename": "00014.swf",
-        "id": "f896",
-        "raters": 113,
-        "rating": 2.4,
-        "size": 0.465,
-        "title": "00014",
-        "views": 16177
-    },
-    {
-        "comment_amt": 7,
-        "comments": [],
-        "date": "2009-07-23",
-        "filename": "00090.swf",
-        "id": "f4345",
-        "raters": 87,
-        "rating": 3.0,
-        "size": 0.296,
-        "title": "00090",
-        "views": 9038
-    },
-    {
         "comment_amt": 4,
-        "comments": [],
-        "date": "2009-12-15",
-        "filename": "00338.swf",
-        "id": "f5082",
-        "raters": 54,
+        "comments": [
+            {
+                "date": "2012-01-26",
+                "text": "this flash contains 4 songs!",
+                "time": "17:23:00",
+                "title": "",
+                "username": "kpaenen"
+            },
+            {
+                "date": "2012-02-10",
+                "text": "#1 you sir sure are a genius. Want a medal?",
+                "time": "19:54:00",
+                "title": "",
+                "username": "Anonuumi"
+            },
+            {
+                "date": "2012-03-11",
+                "text": "There's a band called \"Hell no\"...",
+                "time": "02:16:00",
+                "title": "",
+                "username": "GrellIsMaiWaifu"
+            },
+            {
+                "date": "2015-08-09",
+                "text": "2015, still waiting for that frikkin' medal....",
+                "time": "18:16:00",
+                "title": "",
+                "username": "kpaenen"
+            }
+        ],
+        "date": "2012-01-26",
+        "filename": "3_anime_songs.swf",
+        "id": "f10166",
+        "raters": 34,
         "rating": 2.5,
-        "size": 2.4,
-        "title": "00338",
-        "views": 7634
+        "size": 1.3,
+        "tags": [
+            "Loop",
+            "anime",
+            "epilepsy"
+        ],
+        "title": "3 anime songs",
+        "views": 4736
     },
     {
-        "comment_amt": 5,
-        "comments": [],
-        "date": "2010-12-15",
-        "filename": "01801.swf",
-        "id": "f8017",
-        "raters": 59,
-        "rating": 3.3,
-        "size": 2.6,
-        "title": "01801",
-        "views": 4604
-    },
-    {
-        "comment_amt": 1,
-        "comments": [],
-        "date": "2010-08-11",
-        "filename": "055.swf",
-        "id": "f7091",
-        "raters": 64,
-        "rating": 2.4,
-        "size": 0.002,
-        "title": "055",
-        "views": 6655
-    },
-    {
-        "comment_amt": 4,
-        "comments": [],
-        "date": "2014-07-07",
-        "filename": "0x40Hues.swf",
-        "id": "f13186",
-        "raters": 113,
-        "rating": 4.6,
-        "size": 9.4,
-        "title": "0x40Hues",
-        "views": 4692
-    },
-    {
-        "comment_amt": 4,
-        "comments": [],
-        "date": "2014-11-17",
-        "filename": "0x40Huesv60.swf",
-        "id": "f13456",
-        "raters": 49,
-        "rating": 3.9,
-        "size": 1.1,
-        "title": "0x40Huesv60",
-        "views": 2265
-    },
-    {
-        "comment_amt": 14,
-        "comments": [],
-        "date": "2014-06-02",
-        "filename": "0x40_hues.swf",
-        "id": "f13117",
-        "raters": 154,
-        "rating": 4.6,
-        "size": 7.6,
-        "title": "0x40 hues",
-        "views": 8059
+        "comment_amt": 2,
+        "comments": [
+            {
+                "date": "2007-06-19",
+                "text": "I umm... don't get it.",
+                "time": "00:16:00",
+                "title": "",
+                "username": "Cube"
+            },
+            {
+                "date": "2009-06-14",
+                "text": "I can has fractals pleeze? captcha: CLIT",
+                "time": "23:47:00",
+                "title": "",
+                "username": "Anon"
+            }
+        ],
+        "date": "2007-05-25",
+        "filename": "3_points_E.swf",
+        "id": "f1369",
+        "raters": 82,
+        "rating": 2.9,
+        "size": 0.004,
+        "tags": [
+            "misc",
+            "art"
+        ],
+        "title": "3 points E",
+        "views": 12191
     },
     {
         "comment_amt": 3,
-        "comments": [],
-        "date": "2015-03-31",
-        "filename": "0x40_Hues_Party_Hard.swf",
-        "id": "f13884",
-        "raters": 49,
-        "rating": 4.2,
-        "size": 2.0,
-        "title": "0x40 Hues Party Hard",
-        "views": 1906
-    },
-    {
-        "comment_amt": 5,
-        "comments": [],
-        "date": "2012-09-22",
-        "filename": "0_324.swf",
-        "id": "f11146",
+        "comments": [
+            {
+                "date": "2011-03-29",
+                "text": "explanation pls",
+                "time": "23:28:00",
+                "title": "",
+                "username": "ju"
+            },
+            {
+                "date": "2011-03-30",
+                "text": "i liked the part with cock waffle",
+                "time": "05:27:00",
+                "title": "",
+                "username": "holymega metal"
+            },
+            {
+                "date": "2011-03-30",
+                "text": "youtube.com/watch?v=MnsFqRmEViA YouTube Poop music video. Random mash of YouTube videos put together by several people. Nothing to see here.",
+                "time": "09:14:00",
+                "title": "",
+                "username": "Anonymous"
+            }
+        ],
+        "date": "2011-03-29",
+        "filename": "4000_The_Smurfs_Collab.swf",
+        "id": "f8638",
         "raters": 41,
-        "rating": 3.0,
-        "size": 0.531,
-        "title": "0 324",
-        "views": 3044
-    },
-    {
-        "comment_amt": 4,
-        "comments": [],
-        "date": "2012-09-15",
-        "filename": "0_opr.swf",
-        "id": "f11125",
-        "raters": 41,
-        "rating": 3.0,
-        "size": 0.252,
-        "title": "0 opr",
-        "views": 3623
-    },
-    {
-        "comment_amt": 9,
-        "comments": [],
-        "date": "2005-07-24",
-        "filename": "0_wing_rhapsody.swf",
-        "id": "f204",
-        "raters": 168,
-        "rating": 3.6,
-        "size": 2.2,
-        "title": "0 wing rhapsody",
-        "views": 17762
-    },
-    {
-        "comment_amt": 9,
-        "comments": [],
-        "date": "2009-07-28",
-        "filename": "1000_mastersparking.swf",
-        "id": "f4370",
-        "raters": 81,
-        "rating": 3.5,
-        "size": 7.9,
-        "title": "1000 mastersparking",
-        "views": 9249
-    },
-    {
-        "comment_amt": 7,
-        "comments": [],
-        "date": "2012-09-03",
-        "filename": "10011101.swf",
-        "id": "f11090",
-        "raters": 57,
-        "rating": 2.8,
-        "size": 1.5,
-        "title": "10011101",
-        "views": 5362
-    },
-    {
-        "comment_amt": 8,
-        "comments": [],
-        "date": "2010-08-23",
-        "filename": "100get.swf",
-        "id": "f7193",
-        "raters": 64,
-        "rating": 3.3,
-        "size": 0.035,
-        "title": "100get",
-        "views": 33485
+        "rating": 2.3,
+        "size": 3.3,
+        "tags": [
+            "Music video"
+        ],
+        "title": "4000 The Smurfs Collab",
+        "views": 4203
     },
     {
         "comment_amt": 18,
-        "comments": [],
-        "date": "2009-06-04",
-        "filename": "100ton_bomb_test.swf",
-        "id": "f4108",
-        "raters": 196,
-        "rating": 4.3,
-        "size": 1.4,
-        "title": "100ton bomb test",
-        "views": 9953
-    },
-    {
-        "comment_amt": 3,
-        "comments": [],
-        "date": "2014-09-26",
-        "filename": "1011.swf",
-        "id": "f13358",
-        "raters": 29,
-        "rating": 3.3,
-        "size": 0.344,
-        "title": "1011",
-        "views": 3179
-    },
-    {
-        "comment_amt": 14,
-        "comments": [],
-        "date": "2008-06-28",
-        "filename": "10millionget.swf",
-        "id": "f2818",
-        "raters": 67,
-        "rating": 2.1,
-        "size": 0.027,
-        "title": "10millionget",
-        "views": 12906
-    },
-    {
-        "comment_amt": 2,
-        "comments": [],
-        "date": "2007-10-01",
-        "filename": "10seconds.swf",
-        "id": "f1892",
-        "raters": 136,
+        "comments": [
+            {
+                "date": "2007-10-29",
+                "text": "wtf is this shit? :D 5/5 anyways. It's a win nonetheless.",
+                "time": "22:28:00",
+                "title": "",
+                "username": "Koskila"
+            },
+            {
+                "date": "2007-10-29",
+                "text": "That was almost funny. Also cocks.",
+                "time": "22:28:00",
+                "title": "",
+                "username": "Rain"
+            },
+            {
+                "date": "2007-10-29",
+                "text": "Hahha 5/5",
+                "time": "23:16:00",
+                "title": "",
+                "username": "Rixa"
+            },
+            {
+                "date": "2007-10-29",
+                "text": "for those who don't know what is going on: the ( ... )ed up looking dude was ordered to go to get some fresh water from the mount Fuji by the chic. however, the water seemed to be a bit too warm. well.. at least that's how I remember it.",
+                "time": "23:24:00",
+                "title": "",
+                "username": "SS"
+            },
+            {
+                "date": "2007-10-29",
+                "text": "i love the lucky channel",
+                "time": "23:53:00",
+                "title": "",
+                "username": "Kaito"
+            },
+            {
+                "date": "2007-10-30",
+                "text": "exactly, and before snapping... she says it's easier just buy from shop",
+                "time": "01:32:00",
+                "title": ">>4",
+                "username": "Yani"
+            },
+            {
+                "date": "2007-10-30",
+                "text": "You guys don't know what you are talking about, lucky star is a really funny show, also the girls are so ~kawaii~",
+                "time": "03:00:00",
+                "title": "",
+                "username": "PenZon"
+            },
+            {
+                "date": "2007-10-30",
+                "text": "Let's see....yep, I still fail@moonspeak.",
+                "time": "08:26:00",
+                "title": "",
+                "username": "Uhhhhh"
+            },
+            {
+                "date": "2007-10-30",
+                "text": "Heh, it's funny. Also, the music is great. Is the music from Lucky Star or was it added for this flash?",
+                "time": "12:54:00",
+                "title": "",
+                "username": "Stalkking"
+            },
+            {
+                "date": "2007-10-30",
+                "text": "not this bloody pervert serie again :x",
+                "time": "14:57:00",
+                "title": "",
+                "username": "dg1"
+            },
+            {
+                "date": "2007-10-30",
+                "text": "Bloody hell, it seems that someone is pretending to be me. But that is pretty damn close what i would have said. :D Or maybe im just loosing it...",
+                "time": "16:30:00",
+                "title": "",
+                "username": "PenZon (the one and only original)"
+            },
+            {
+                "date": "2007-10-31",
+                "text": "Anyone happen to know, where could I download that song?",
+                "time": "16:22:00",
+                "title": "",
+                "username": "Koskila"
+            },
+            {
+                "date": "2007-10-31",
+                "text": ">#9 It was added.",
+                "time": "16:49:00",
+                "title": "",
+                "username": "w"
+            },
+            {
+                "date": "2008-01-21",
+                "text": "Lucky star fails. 1 star",
+                "time": "09:11:00",
+                "title": "",
+                "username": "loL, no"
+            },
+            {
+                "date": "2008-05-14",
+                "text": "The song is called Critius no Kiba from Yu-gi-oh, btw.",
+                "time": "01:13:00",
+                "title": "",
+                "username": "Artemis-kun"
+            },
+            {
+                "date": "2009-08-12",
+                "text": "Thsi video is so cock and hairy ballz sucking xD .",
+                "time": "02:47:00",
+                "title": "xD",
+                "username": "LOWL"
+            },
+            {
+                "date": "2009-09-28",
+                "text": "@10 just wtf is perverted about lucky star? Say that and you'll be sayin just bout every anime is perverse :P This clip is awesome, also there are some videos of the voice actors of lucky channel doing some funny stuff RL which are pretty amusin as well.",
+                "time": "12:29:00",
+                "title": "",
+                "username": "Ohayou luckyy!"
+            },
+            {
+                "date": "2010-04-01",
+                "text": "reminds me of a funeral i when to once.... long story short, someone got the shit end of the will, a fight started, ended with several people in the hospital and me getting hit with a chair....",
+                "time": "07:08:00",
+                "title": "",
+                "username": "Majio"
+            }
+        ],
+        "date": "2007-10-29",
+        "filename": "400percent.swf",
+        "id": "f2009",
+        "raters": 161,
         "rating": 3.7,
-        "size": 0.584,
-        "title": "10seconds",
-        "views": 11866
-    },
-    {
-        "comment_amt": 2,
-        "comments": [],
-        "date": "2010-07-13",
-        "filename": "10_signs_of_facism.swf",
-        "id": "f6861",
-        "raters": 122,
-        "rating": 4.2,
-        "size": 3.9,
-        "title": "10 signs of facism",
-        "views": 5575
-    },
-    {
-        "comment_amt": 4,
-        "comments": [],
-        "date": "2013-09-13",
-        "filename": "111Prime_Time.swf",
-        "id": "f12444",
-        "raters": 34,
-        "rating": 3.7,
-        "size": 0.216,
-        "title": "111Prime Time",
-        "views": 2707
-    },
-    {
-        "comment_amt": 11,
-        "comments": [],
-        "date": "2009-09-09",
-        "filename": "120.swf",
-        "id": "f4586",
-        "raters": 115,
-        "rating": 3.7,
-        "size": 0.836,
-        "title": "120",
-        "views": 8878
-    },
-    {
-        "comment_amt": 2,
-        "comments": [],
-        "date": "2010-01-22",
-        "filename": "1255784485981.swf",
-        "id": "f5328",
-        "raters": 75,
-        "rating": 3.3,
-        "size": 6.3,
-        "title": "1255784485981",
-        "views": 6409
-    },
-    {
-        "comment_amt": 5,
-        "comments": [],
-        "date": "2010-03-26",
-        "filename": "1266871210001.swf",
-        "id": "f5877",
-        "raters": 56,
-        "rating": 3.1,
-        "size": 1.4,
-        "title": "1266871210001",
-        "views": 6302
-    },
-    {
-        "comment_amt": 10,
-        "comments": [],
-        "date": "2010-04-27",
-        "filename": "1267804615001.swf",
-        "id": "f6184",
-        "raters": 74,
-        "rating": 2.7,
-        "size": 0.311,
-        "title": "1267804615001",
-        "views": 8252
-    },
-    {
-        "comment_amt": 1,
-        "comments": [],
-        "date": "2013-09-21",
-        "filename": "12bit_icecream.swf",
-        "id": "f12464",
-        "raters": 46,
-        "rating": 3.8,
-        "size": 0.507,
-        "title": "12bit icecream",
-        "views": 3405
-    },
-    {
-        "comment_amt": 4,
-        "comments": [],
-        "date": "2008-06-12",
-        "filename": "1309.swf",
-        "id": "f2773",
-        "raters": 126,
-        "rating": 3.1,
-        "size": 1.0,
-        "title": "1309",
-        "views": 11412
-    },
-    {
-        "comment_amt": 13,
-        "comments": [],
-        "date": "2011-05-01",
-        "filename": "14_years_later.swf",
-        "id": "f8840",
-        "raters": 109,
-        "rating": 4.0,
-        "size": 7.3,
-        "title": "14 years later",
-        "views": 8592
-    },
-    {
-        "comment_amt": 6,
-        "comments": [],
-        "date": "2010-01-14",
-        "filename": "159230-9864.swf",
-        "id": "f5228",
-        "raters": 68,
-        "rating": 2.6,
-        "size": 0.252,
-        "title": "159230-9864",
-        "views": 6651
-    },
-    {
-        "comment_amt": 0,
-        "comments": [],
-        "date": "2013-08-22",
-        "filename": "15_Minute_Phone_Call.swf",
-        "id": "f12383",
-        "raters": 37,
-        "rating": 3.2,
-        "size": 9.8,
-        "title": "15 Minute Phone Call",
-        "views": 3506
-    },
-    {
-        "comment_amt": 3,
-        "comments": [],
-        "date": "2014-02-13",
-        "filename": "1650_clap.swf",
-        "id": "f12872",
-        "raters": 39,
-        "rating": 2.5,
-        "size": 0.719,
-        "title": "1650 clap",
-        "views": 3634
-    },
-    {
-        "comment_amt": 8,
-        "comments": [],
-        "date": "2010-11-17",
-        "filename": "16Horsepower_PrayingArmLane.swf",
-        "id": "f7831",
-        "raters": 116,
-        "rating": 3.7,
-        "size": 2.2,
-        "title": "16Horsepower PrayingA..",
-        "views": 10323
-    },
-    {
-        "comment_amt": 1,
-        "comments": [],
-        "date": "2006-10-01",
-        "filename": "16yopocky.swf",
-        "id": "f557",
-        "raters": 122,
-        "rating": 2.2,
-        "size": 0.206,
-        "title": "16yopocky",
-        "views": 16683
-    },
-    {
-        "comment_amt": 6,
-        "comments": [],
-        "date": "2012-10-09",
-        "filename": "1804.swf",
-        "id": "f11239",
-        "raters": 56,
-        "rating": 3.2,
-        "size": 8.5,
-        "title": "1804",
-        "views": 3904
-    },
-    {
-        "comment_amt": 12,
-        "comments": [],
-        "date": "2011-04-10",
-        "filename": "1930s_beat.swf",
-        "id": "f8721",
-        "raters": 97,
-        "rating": 4.1,
-        "size": 2.8,
-        "title": "1930s beat",
-        "views": 5782
-    },
-    {
-        "comment_amt": 4,
-        "comments": [],
-        "date": "2012-09-15",
-        "filename": "1938.swf",
-        "id": "f11124",
-        "raters": 25,
-        "rating": 3.0,
-        "size": 4.5,
-        "title": "1938",
-        "views": 2788
-    },
-    {
-        "comment_amt": 2,
-        "comments": [],
-        "date": "2011-02-09",
-        "filename": "1997.swf",
-        "id": "f8327",
-        "raters": 97,
-        "rating": 2.5,
-        "size": 0.348,
-        "title": "1997",
-        "views": 8146
-    },
-    {
-        "comment_amt": 9,
-        "comments": [],
-        "date": "2009-06-29",
-        "filename": "1mil2.swf",
-        "id": "f4219",
-        "raters": 70,
-        "rating": 2.6,
-        "size": 7.0,
-        "title": "1mil2",
-        "views": 7431
+        "size": 4.8,
+        "tags": [
+            "loop",
+            "anime",
+            "Lucky Star"
+        ],
+        "title": "400percent",
+        "views": 16572
     },
     {
         "comment_amt": 7,
-        "comments": [],
-        "date": "2009-01-06",
-        "filename": "1on1soccer.swf",
-        "id": "f3357",
-        "raters": 139,
+        "comments": [
+            {
+                "date": "2008-02-28",
+                "text": "Music: Daft Punk - Nightvision?",
+                "time": "18:50:00",
+                "title": "",
+                "username": "meh"
+            },
+            {
+                "date": "2008-02-28",
+                "text": "#1 im pretty sure it is",
+                "time": "18:58:00",
+                "title": "",
+                "username": "Lithen"
+            },
+            {
+                "date": "2008-02-29",
+                "text": "strangely soothing sound in the beginning....",
+                "time": "11:37:00",
+                "title": "",
+                "username": "Ithos"
+            },
+            {
+                "date": "2008-03-01",
+                "text": "stuff",
+                "time": "21:09:00",
+                "title": "",
+                "username": "cosy"
+            },
+            {
+                "date": "2008-03-10",
+                "text": "it was so f@#$$%g boring",
+                "time": "17:26:00",
+                "title": "zdcvzxd",
+                "username": "it was so f@#$$%g boring"
+            },
+            {
+                "date": "2008-05-12",
+                "text": "#1 That's correct. It's slowed a bit, though.",
+                "time": "04:56:00",
+                "title": "",
+                "username": "Sevii"
+            },
+            {
+                "date": "2009-05-16",
+                "text": "It reminds me Portal.",
+                "time": "23:12:00",
+                "title": "",
+                "username": "Anon"
+            }
+        ],
+        "date": "2008-02-28",
+        "filename": "404.swf",
+        "id": "f2429",
+        "raters": 123,
+        "rating": 3.4,
+        "size": 0.61,
+        "tags": [
+            "loop"
+        ],
+        "title": "404",
+        "views": 14554
+    },
+    {
+        "comment_amt": 2,
+        "comments": [
+            {
+                "date": "2010-05-29",
+                "text": "Lets have a party :D",
+                "time": "06:26:00",
+                "title": "ummmm",
+                "username": "wtf"
+            },
+            {
+                "date": "2010-08-16",
+                "text": "A 404 PARTY Earned my 5.",
+                "time": "02:12:00",
+                "title": "",
+                "username": "Anonymous"
+            }
+        ],
+        "date": "2010-05-28",
+        "filename": "404_dance.swf",
+        "id": "f6461",
+        "raters": 72,
+        "rating": 3.2,
+        "size": 0.984,
+        "tags": [
+            "Humor",
+            "404-page"
+        ],
+        "title": "404 dance",
+        "views": 7043
+    },
+    {
+        "comment_amt": 24,
+        "comments": [
+            {
+                "date": "2010-04-17",
+                "text": "I lol'd. :D",
+                "time": "17:06:00",
+                "title": "",
+                "username": "skuzz0r"
+            },
+            {
+                "date": "2010-04-17",
+                "text": "Yay YTMND",
+                "time": "17:49:00",
+                "title": "",
+                "username": "Colt"
+            },
+            {
+                "date": "2010-04-17",
+                "text": "u got to be kidding me this crap got 5 stars >_>",
+                "time": "18:08:00",
+                "title": "ummmm",
+                "username": "wtf"
+            },
+            {
+                "date": "2010-04-17",
+                "text": "i know it's a repost somehow, but yet... it's a great 404-page, isn't it?",
+                "time": "19:10:00",
+                "title": "",
+                "username": "sinnfreichan"
+            },
+            {
+                "date": "2010-04-17",
+                "text": "Song plox :P",
+                "time": "20:45:00",
+                "title": "",
+                "username": "Mithrandir"
+            },
+            {
+                "date": "2010-04-17",
+                "text": "Jean Jacques Perrey - Brazilian Flower get it here: http://sharebee.com/da447fb7",
+                "time": "21:07:00",
+                "title": "",
+                "username": "sinnfreichan"
+            },
+            {
+                "date": "2010-04-17",
+                "text": "Moar info: http://inciclopedia.wikia.com/wiki/Inciclopedia:Portada_AA AAAAAAA",
+                "time": "23:21:00",
+                "title": "",
+                "username": "tekotek"
+            },
+            {
+                "date": "2010-04-18",
+                "text": "This is old as hell but it's still funny too.",
+                "time": "01:35:00",
+                "title": "",
+                "username": "thetripfaggot"
+            },
+            {
+                "date": "2010-04-18",
+                "text": "Them's some big nostrils.",
+                "time": "06:10:00",
+                "title": "",
+                "username": "Anoon"
+            },
+            {
+                "date": "2010-04-18",
+                "text": "nigras dont like space trevels",
+                "time": "08:10:00",
+                "title": "",
+                "username": "asd"
+            },
+            {
+                "date": "2010-04-18",
+                "text": "Alittle big in filesize for a 404?..",
+                "time": "08:12:00",
+                "title": "",
+                "username": "ipaqmaster"
+            },
+            {
+                "date": "2010-04-18",
+                "text": "Only if you're on 56k.",
+                "time": "15:56:00",
+                "title": "",
+                "username": "Anoon"
+            },
+            {
+                "date": "2010-04-19",
+                "text": "Shit repost",
+                "time": "17:54:00",
+                "title": "",
+                "username": "sdrfes"
+            },
+            {
+                "date": "2010-04-19",
+                "text": "#13 - Proof or it didn't happen.",
+                "time": "19:49:00",
+                "title": "",
+                "username": "Carabia"
+            },
+            {
+                "date": "2010-04-21",
+                "text": "Gotta be me' new 404 site xD",
+                "time": "20:24:00",
+                "title": "",
+                "username": "Dragzonox"
+            },
+            {
+                "date": "2010-06-13",
+                "text": "NOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!! WHERE CAN I FIND THIS GAME AGAIN?!",
+                "time": "21:38:00",
+                "title": "",
+                "username": "iCaek"
+            },
+            {
+                "date": "2010-12-03",
+                "text": "fantastic!",
+                "time": "12:02:00",
+                "title": "",
+                "username": "butt"
+            },
+            {
+                "date": "2011-01-14",
+                "text": "omg deleted!",
+                "time": "22:44:00",
+                "title": "",
+                "username": "kpaenen"
+            },
+            {
+                "date": "2011-01-15",
+                "text": "NOES !!!!! Where is the Robot Unicorn gone ?",
+                "time": "12:30:00",
+                "title": "",
+                "username": "czegergregre"
+            },
+            {
+                "date": "2011-07-25",
+                "text": "\"music video, nsfw\" .. and 404 happened :P",
+                "time": "15:24:00",
+                "title": "",
+                "username": "JoKiv"
+            },
+            {
+                "date": "2012-03-15",
+                "text": "Technical difficulties? MORE LIKE TECHNICAL AWESOME",
+                "time": "14:05:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2012-10-14",
+                "text": "Best flash ever !",
+                "time": "15:29:00",
+                "title": "",
+                "username": "b0rg"
+            },
+            {
+                "date": "2013-07-08",
+                "text": "http://dagobah.net/flash/louisgetshispeelz.swf",
+                "time": "20:44:00",
+                "title": "",
+                "username": "wontletmepostwithout"
+            },
+            {
+                "date": "2014-02-27",
+                "text": ">:D",
+                "time": "18:50:00",
+                "title": "",
+                "username": "dsa"
+            }
+        ],
+        "date": "2010-04-17",
+        "filename": "404_error_technical_difficulties.swf",
+        "id": "f6090",
+        "raters": 237,
+        "rating": 4.5,
+        "size": 1.6,
+        "tags": [
+            "Loop"
+        ],
+        "title": "404 error technical d..",
+        "views": 13846
+    },
+    {
+        "comment_amt": 5,
+        "comments": [
+            {
+                "date": "2007-11-07",
+                "text": "Cat got some skills!",
+                "time": "22:50:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2007-11-08",
+                "text": "caturday night fever",
+                "time": "12:09:00",
+                "title": "",
+                "username": "koppeli"
+            },
+            {
+                "date": "2007-11-08",
+                "text": "Poster was awesome.",
+                "time": "12:54:00",
+                "title": "",
+                "username": "zxcv"
+            },
+            {
+                "date": "2007-11-10",
+                "text": "/r/ song source",
+                "time": "06:08:00",
+                "title": "",
+                "username": "ras"
+            },
+            {
+                "date": "2007-12-20",
+                "text": "#4 - It's from Weebls-Stuff's 404 page, so it's their own song",
+                "time": "23:23:00",
+                "title": "",
+                "username": "arood"
+            }
+        ],
+        "date": "2007-11-07",
+        "filename": "404_scratching_cat.swf",
+        "id": "f2045",
+        "raters": 126,
+        "rating": 3.5,
+        "size": 0.227,
+        "tags": [
+            "loop",
+            "cat"
+        ],
+        "title": "404 scratching cat",
+        "views": 15701
+    },
+    {
+        "comment_amt": 3,
+        "comments": [
+            {
+                "date": "2015-07-21",
+                "text": "its even better than 40 hues of megumi!",
+                "time": "08:33:00",
+                "title": "",
+                "username": "Name"
+            },
+            {
+                "date": "2015-07-24",
+                "text": "indeed",
+                "time": "01:15:00",
+                "title": "",
+                "username": "cock"
+            },
+            {
+                "date": "2015-08-07",
+                "text": "could've been looped better :-/",
+                "time": "16:40:00",
+                "title": "",
+                "username": "BWARGHHHWAGH"
+            }
+        ],
+        "date": "2015-07-18",
+        "filename": "40_Hues_of_Megumi.swf",
+        "id": "f14214",
+        "raters": 37,
         "rating": 2.4,
+        "size": 0.773,
+        "tags": [
+            "Loop"
+        ],
+        "title": "40 Hues of Megumi",
+        "views": 1626
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2010-03-04",
+                "text": "wat",
+                "time": "18:58:00",
+                "title": "",
+                "username": "DeAimon"
+            },
+            {
+                "date": "2010-03-04",
+                "text": "d'aaawwwww =3",
+                "time": "19:10:00",
+                "title": "",
+                "username": "Hideki"
+            },
+            {
+                "date": "2010-03-04",
+                "text": "Best ever! OMG WHER DOES IT HURTS!? MY STUMACUUUU!!",
+                "time": "20:13:00",
+                "title": "",
+                "username": "asdffd"
+            },
+            {
+                "date": "2010-03-04",
+                "text": "kinda catchy lol",
+                "time": "23:00:00",
+                "title": "wtf",
+                "username": "ummmm"
+            },
+            {
+                "date": "2010-03-05",
+                "text": "Shes trippin!",
+                "time": "10:52:00",
+                "title": "",
+                "username": "Alle090"
+            },
+            {
+                "date": "2010-03-05",
+                "text": "nicely looped.",
+                "time": "15:38:00",
+                "title": "",
+                "username": "zkz"
+            }
+        ],
+        "date": "2010-03-04",
+        "filename": "414_diarrhea1.swf",
+        "id": "f5677",
+        "raters": 81,
+        "rating": 3.7,
+        "size": 3.0,
+        "tags": [
+            "Music video"
+        ],
+        "title": "414 diarrhea1",
+        "views": 6720
+    },
+    {
+        "comment_amt": 12,
+        "comments": [
+            {
+                "date": "2014-06-28",
+                "text": "",
+                "time": "22:03:00",
+                "title": "",
+                "username": "Argentino"
+            },
+            {
+                "date": "2014-06-28",
+                "text": "oh lawdy",
+                "time": "22:39:00",
+                "title": "",
+                "username": "someanon"
+            },
+            {
+                "date": "2014-06-29",
+                "text": "uuhh im so cool i smoke weed yeah,",
+                "time": "00:29:00",
+                "title": "",
+                "username": "xdrg"
+            },
+            {
+                "date": "2014-06-29",
+                "text": "Desu dammit",
+                "time": "14:40:00",
+                "title": "",
+                "username": "swamp ownr pr0 quikscoper 420"
+            },
+            {
+                "date": "2014-06-29",
+                "text": "desu desu desu desu...",
+                "time": "15:02:00",
+                "title": "",
+                "username": "Colt"
+            },
+            {
+                "date": "2014-06-30",
+                "text": "Disappointed it didn't alternate between green and purple when appropriate.",
+                "time": "11:00:00",
+                "title": "",
+                "username": "sdafdghygfju"
+            },
+            {
+                "date": "2014-06-30",
+                "text": "weed sucks.",
+                "time": "13:10:00",
+                "title": "",
+                "username": "Hentai_Ouji"
+            },
+            {
+                "date": "2014-07-02",
+                "text": "Did i juse saw the dominos logo on the head of lucy?",
+                "time": "03:18:00",
+                "title": "",
+                "username": "tensai"
+            },
+            {
+                "date": "2015-03-11",
+                "text": "@tensal holy hell, your not joking",
+                "time": "23:16:00",
+                "title": "",
+                "username": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)"
+            },
+            {
+                "date": "2015-03-11",
+                "text": "I need the source of the second weed song please.",
+                "time": "23:18:00",
+                "title": "",
+                "username": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)"
+            },
+            {
+                "date": "2015-03-12",
+                "text": "#10 all songs are in the bottom left, song you mean is probably Kritikal - Green and Purple https://www.youtube.com/watch?v=3x4weajfqm0",
+                "time": "16:09:00",
+                "title": "",
+                "username": "babe"
+            },
+            {
+                "date": "2015-05-18",
+                "text": "http://420.moe/",
+                "time": "12:13:00",
+                "title": "",
+                "username": "Name"
+            }
+        ],
+        "date": "2014-06-28",
+        "filename": "420s.swf",
+        "id": "f13169",
+        "raters": 120,
+        "rating": 4.6,
+        "size": 5.0,
+        "tags": [
+            "Loop",
+            "weed"
+        ],
+        "title": "420s",
+        "views": 8663
+    },
+    {
+        "comment_amt": 8,
+        "comments": [
+            {
+                "date": "2008-12-18",
+                "text": "fail ...",
+                "time": "19:11:00",
+                "title": "...",
+                "username": "ANIMA"
+            },
+            {
+                "date": "2008-12-18",
+                "text": "music -> das bot (techno)",
+                "time": "21:10:00",
+                "title": "---",
+                "username": "torvus"
+            },
+            {
+                "date": "2008-12-18",
+                "text": "4 stars for morphing forms guy... err... creature..",
+                "time": "21:17:00",
+                "title": "",
+                "username": "Ololo"
+            },
+            {
+                "date": "2008-12-19",
+                "text": "marschmellow... ?",
+                "time": "18:48:00",
+                "title": "",
+                "username": "asfdsgtrhtygfb"
+            },
+            {
+                "date": "2009-01-23",
+                "text": "Epic 5'd for nostalgic song",
+                "time": "20:20:00",
+                "title": "",
+                "username": "dd"
+            },
+            {
+                "date": "2009-04-04",
+                "text": "U96 - Das Boot",
+                "time": "12:34:00",
+                "title": "Song...",
+                "username": "Mirandamaija"
+            },
+            {
+                "date": "2009-09-02",
+                "text": "5'd for das boot.",
+                "time": "22:51:00",
+                "title": "",
+                "username": "Roxz"
+            },
+            {
+                "date": "2010-01-02",
+                "text": "HURR DURR I SHAPE AND MOTION TWEEN ALL OVER THE PLACE AND ADD MUSIC, HURR DURR GREAT FLASH",
+                "time": "07:50:00",
+                "title": "",
+                "username": "Anonymous"
+            }
+        ],
+        "date": "2008-12-18",
+        "filename": "430.swf",
+        "id": "f3276",
+        "raters": 100,
+        "rating": 2.7,
+        "size": 0.157,
+        "tags": [
+            "loop"
+        ],
+        "title": "430",
+        "views": 9326
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2011-03-06",
+                "text": "Before anyone asks, it's Seize the Day by Hoffmaestro.",
+                "time": "19:02:00",
+                "title": "",
+                "username": "LimEJET"
+            },
+            {
+                "date": "2011-03-06",
+                "text": "Involving Jay and Silent Bob.",
+                "time": "21:53:00",
+                "title": "",
+                "username": "MetalicSoul"
+            },
+            {
+                "date": "2011-03-09",
+                "text": "What song is it XD XD LOVE IT",
+                "time": "19:53:00",
+                "title": "",
+                "username": "suppers"
+            },
+            {
+                "date": "2011-03-17",
+                "text": "http://www.youtube.com/watch?v=2pKCg6tCf5I",
+                "time": "23:11:00",
+                "title": "",
+                "username": "maxiz"
+            },
+            {
+                "date": "2011-03-19",
+                "text": "jay n silent bob",
+                "time": "16:03:00",
+                "title": "",
+                "username": "xShadow"
+            },
+            {
+                "date": "2011-09-05",
+                "text": "holi shit #3 you dumb ( ... ) dont SPAM",
+                "time": "00:07:00",
+                "title": "",
+                "username": "gingerlovin4u"
+            }
+        ],
+        "date": "2011-03-06",
+        "filename": "431.swf",
+        "id": "f8491",
+        "raters": 126,
+        "rating": 4.3,
+        "size": 1.003,
+        "tags": [
+            "Loop"
+        ],
+        "title": "431",
+        "views": 7272
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2014-11-11",
+                "text": "I wanna play that game too!",
+                "time": "19:03:00",
+                "title": "",
+                "username": "asdfcopter"
+            },
+            {
+                "date": "2014-11-11",
+                "text": ">44d627c4f6772462a8a476112e82c76d396 mods = fags",
+                "time": "23:42:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2014-11-12",
+                "text": "how did i know it was going that way...",
+                "time": "06:03:00",
+                "title": "",
+                "username": "kittykat"
+            },
+            {
+                "date": "2014-11-12",
+                "text": "Whopsie.",
+                "time": "15:05:00",
+                "title": "",
+                "username": "Damankee"
+            },
+            {
+                "date": "2014-11-13",
+                "text": "Ooops you forgot the condom.",
+                "time": "06:44:00",
+                "title": "",
+                "username": ":("
+            },
+            {
+                "date": "2014-11-15",
+                "text": "Watch in HD! It gets funnier that way! Youtube level humor.",
+                "time": "14:42:00",
+                "title": "",
+                "username": "iopi"
+            }
+        ],
+        "date": "2014-11-11",
+        "filename": "44d627c4f6772462a8a476112e82c76d396.swf",
+        "id": "f13447",
+        "raters": 48,
+        "rating": 4.2,
+        "size": 0.951,
+        "tags": [
+            "Humor"
+        ],
+        "title": "44d627c4f6772462a8a47..",
+        "views": 2400
+    },
+    {
+        "comment_amt": 8,
+        "comments": [
+            {
+                "date": "2010-07-17",
+                "text": "Falcon reflex!",
+                "time": "18:23:00",
+                "title": "addsadsa",
+                "username": "Falcon"
+            },
+            {
+                "date": "2010-07-17",
+                "text": "FAAAALCOOON KICK!!",
+                "time": "20:43:00",
+                "title": "",
+                "username": "PINGAS"
+            },
+            {
+                "date": "2010-07-17",
+                "text": "Oh god \"The Knee\"! Best and cheapest attack ever. Seriously, look it up, its better than any of his \"falcon ____\" moves.",
+                "time": "21:01:00",
+                "title": "",
+                "username": "Yar"
+            },
+            {
+                "date": "2010-07-17",
+                "text": "#2 It's falcon knee! It is holy when Captain falcon finishes with a Falcon knee!",
+                "time": "21:02:00",
+                "title": "",
+                "username": "Anonkneemous"
+            },
+            {
+                "date": "2010-07-18",
+                "text": "Falcon Knee To The Face!",
+                "time": "00:32:00",
+                "title": "",
+                "username": "Anoni"
+            },
+            {
+                "date": "2010-07-18",
+                "text": "Read below for comment ignition Captain Falcon Sucks",
+                "time": "01:22:00",
+                "title": "",
+                "username": "B4K4"
+            },
+            {
+                "date": "2010-07-18",
+                "text": "Needz more FALCON KICK sounds !",
+                "time": "18:09:00",
+                "title": "NeeeeeeeedZ m0re !",
+                "username": "MaRLeY"
+            },
+            {
+                "date": "2011-04-20",
+                "text": "Oh god, saw it comming a mile away :S Still fun tho :D",
+                "time": "11:39:00",
+                "title": "",
+                "username": "negro"
+            }
+        ],
+        "date": "2010-07-17",
+        "filename": "474093_capt_falcon.swf",
+        "id": "f6904",
+        "raters": 92,
+        "rating": 3.8,
         "size": 0.293,
-        "title": "1on1soccer",
-        "views": 20017
-    },
-    {
-        "comment_amt": 2,
-        "comments": [],
-        "date": "2011-02-25",
-        "filename": "1_by_illreallyanimatethat.swf",
-        "id": "f8442",
-        "raters": 49,
-        "rating": 1.6,
-        "size": 0.385,
-        "title": "1 by illreallyanimate..",
-        "views": 3778
-    },
-    {
-        "comment_amt": 2,
-        "comments": [],
-        "date": "2012-08-07",
-        "filename": "1_Falling_World_Clairvoyance.swf",
-        "id": "f11002",
-        "raters": 31,
-        "rating": 2.4,
-        "size": 2.3,
-        "title": "1 Falling World Clair..",
-        "views": 3095
+        "tags": [
+            "Humor"
+        ],
+        "title": "474093 capt falcon",
+        "views": 5839
     },
     {
         "comment_amt": 0,
         "comments": [],
-        "date": "2015-05-09",
-        "filename": "1_v_2.swf",
-        "id": "f14019",
-        "raters": 24,
-        "rating": 2.2,
-        "size": 9.2,
-        "title": "1 v 2",
-        "views": 969
-    },
-    {
-        "comment_amt": 4,
-        "comments": [],
-        "date": "2009-01-14",
-        "filename": "1_wildcard.swf",
-        "id": "f3391",
-        "raters": 68,
-        "rating": 2.3,
-        "size": 1.5,
-        "title": "1 wildcard",
-        "views": 8781
+        "date": "2010-01-19",
+        "filename": "475_grans_cheese.swf",
+        "id": "f5275",
+        "raters": 69,
+        "rating": 3.1,
+        "size": 3.8,
+        "tags": [
+            "Music video",
+            "weebl"
+        ],
+        "title": "475 grans cheese",
+        "views": 6065
     },
     {
         "comment_amt": 10,
-        "comments": [],
-        "date": "2010-02-01",
-        "filename": "2000V.swf",
-        "id": "f5412",
-        "raters": 114,
-        "rating": 3.9,
-        "size": 3.2,
-        "title": "2000V",
-        "views": 9319
+        "comments": [
+            {
+                "date": "2010-12-12",
+                "text": "genius",
+                "time": "21:55:00",
+                "title": "",
+                "username": "DROU"
+            },
+            {
+                "date": "2010-12-12",
+                "text": "#1: quite",
+                "time": "22:17:00",
+                "title": "",
+                "username": "ShadowMan"
+            },
+            {
+                "date": "2010-12-13",
+                "text": "whats the original movie name again",
+                "time": "11:24:00",
+                "title": "",
+                "username": "The_Patient"
+            },
+            {
+                "date": "2010-12-13",
+                "text": "I broke into your room. I hope you don't mind\u2026 You probably do. And to be fair it's actually illegal To break into someone's house, Looking through your socks drawer, Hunting for your panties. I've been looking at your panties. I've been looking at your panties! Oh, that's not all that I've done. In one of your many shoes I've left a little gift for you. A number two. And it seemed a good idea at the time.",
+                "time": "16:40:00",
+                "title": "",
+                "username": "bleh"
+            },
+            {
+                "date": "2010-12-13",
+                "text": "love it! I recognized the singer voice of weebl :D",
+                "time": "18:11:00",
+                "title": "",
+                "username": "Gomati"
+            },
+            {
+                "date": "2010-12-13",
+                "text": "^No f*cking shit, Sherlock?",
+                "time": "22:01:00",
+                "title": "",
+                "username": "ShadowMan"
+            },
+            {
+                "date": "2010-12-14",
+                "text": "That girl is hot, ill shit in her shoe any day.",
+                "time": "08:22:00",
+                "title": "",
+                "username": "Paron"
+            },
+            {
+                "date": "2010-12-14",
+                "text": "p'hantees :D",
+                "time": "21:53:00",
+                "title": "",
+                "username": "ShadowMan"
+            },
+            {
+                "date": "2010-12-16",
+                "text": "The movie... is it not \"The sure thing\"",
+                "time": "22:40:00",
+                "title": "",
+                "username": "Woblgd"
+            },
+            {
+                "date": "2011-07-29",
+                "text": "Hilarious",
+                "time": "00:30:00",
+                "title": "",
+                "username": "LordJebe"
+            }
+        ],
+        "date": "2010-12-12",
+        "filename": "489_anything.swf",
+        "id": "f7998",
+        "raters": 130,
+        "rating": 4.3,
+        "size": 7.1,
+        "tags": [
+            "Humor",
+            "weebl"
+        ],
+        "title": "489 anything",
+        "views": 7473
+    },
+    {
+        "comment_amt": 5,
+        "comments": [
+            {
+                "date": "2010-11-15",
+                "text": "So, uh, where's that \"why god why\" tag coming from? I... Don't think that was a crime against nature or anything? It wasn't a good use of the talent of the guys behind this animation, sure, but it's not that bad.",
+                "time": "01:58:00",
+                "title": "",
+                "username": "lawl"
+            },
+            {
+                "date": "2010-11-15",
+                "text": "i like lucario",
+                "time": "03:47:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2010-11-15",
+                "text": "Animation 5* Music doesn't fit the piece and needs a hell of a lot more bass. 1*",
+                "time": "14:40:00",
+                "title": "",
+                "username": "Awesome"
+            },
+            {
+                "date": "2010-11-16",
+                "text": "Steelix being a mix of steel/ground is weak against Fighting type, so the Lucario can pwn it, but it takes 1/2 damage from dark and normal damage from ice, the Sneasel shouldn't be able to really damage it that much.",
+                "time": "00:47:00",
+                "title": "",
+                "username": "Frololololol"
+            },
+            {
+                "date": "2010-11-16",
+                "text": "This looks exactly like some other animation I've seen... I think it had two japanese style cat characters fighting against monsters.",
+                "time": "20:52:00",
+                "title": "",
+                "username": "Anon"
+            }
+        ],
+        "date": "2010-11-14",
+        "filename": "494940_rukario.swf",
+        "id": "f7815",
+        "raters": 80,
+        "rating": 3.2,
+        "size": 4.6,
+        "tags": [
+            "Music video",
+            "Anime",
+            "Pokemon",
+            "(why god why)"
+        ],
+        "title": "494940 rukario",
+        "views": 6737
     },
     {
         "comment_amt": 1,
-        "comments": [],
-        "date": "2011-01-14",
-        "filename": "2006intro.swf",
-        "id": "f8177",
-        "raters": 49,
-        "rating": 3.3,
+        "comments": [
+            {
+                "date": "2015-04-07",
+                "text": "dat slowdown doe QGifs got it done right",
+                "time": "22:32:00",
+                "title": "",
+                "username": "Anonymous"
+            }
+        ],
+        "date": "2015-04-02",
+        "filename": "4chan-time.swf",
+        "id": "f13891",
+        "raters": 41,
+        "rating": 4.0,
+        "size": 6.3,
+        "tags": [
+            "Loop",
+            "gif_montage",
+            "NSFW"
+        ],
+        "title": "4chan-time",
+        "views": 2153
+    },
+    {
+        "comment_amt": 8,
+        "comments": [
+            {
+                "date": "2007-03-25",
+                "text": "/r/ music for this flash.",
+                "time": "21:46:00",
+                "title": "",
+                "username": "DANG"
+            },
+            {
+                "date": "2007-03-26",
+                "text": "seconded",
+                "time": "02:07:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2007-03-27",
+                "text": "the song is \"FUNTA - Kao Dekaai\"",
+                "time": "06:50:00",
+                "title": "",
+                "username": "Eechi_OS"
+            },
+            {
+                "date": "2007-03-27",
+                "text": ">>3 Thanks. I remembered it was something like \"Kao Dekai\" but there was a second \"a\".",
+                "time": "09:41:00",
+                "title": "",
+                "username": "mrkukov"
+            },
+            {
+                "date": "2007-07-09",
+                "text": "4chan woot! I miss the ban hammer of snacks...",
+                "time": "00:40:00",
+                "title": "",
+                "username": "Synner"
+            },
+            {
+                "date": "2007-11-05",
+                "text": "Cool, dagobah even has a few mp3s uploaded: http://dragonbah.biz/flash/music/",
+                "time": "12:54:00",
+                "title": "",
+                "username": "Stalkking"
+            },
+            {
+                "date": "2009-12-14",
+                "text": "FVCK Zone is awesome.",
+                "time": "02:23:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2011-02-22",
+                "text": "http://www.animelyrics.com/anime/drslump/kaodekaai.htm",
+                "time": "04:19:00",
+                "title": "",
+                "username": "Anonymous"
+            }
+        ],
+        "date": "2007-02-05",
+        "filename": "4chan4evar.swf",
+        "id": "f872",
+        "raters": 288,
+        "rating": 4.1,
         "size": 2.1,
-        "title": "2006intro",
-        "views": 3942
+        "tags": [
+            "Music video",
+            "4chan 4ever"
+        ],
+        "title": "4chan4evar",
+        "views": 30956
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2007-05-31",
+                "text": "cute.. no really this sums up 4chan's hysterics nicely",
+                "time": "06:39:00",
+                "title": "",
+                "username": "tenma242"
+            },
+            {
+                "date": "2009-09-08",
+                "text": "4chan= Epic Win",
+                "time": "14:55:00",
+                "title": "",
+                "username": "No Picture Aviable"
+            },
+            {
+                "date": "2009-11-03",
+                "text": "What if Snacks actually banned 404 girl?",
+                "time": "00:06:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2010-01-23",
+                "text": "#3 IS NOT POSSIBLE",
+                "time": "19:57:00",
+                "title": "",
+                "username": "anonymous"
+            },
+            {
+                "date": "2010-08-15",
+                "text": "This is 4chan city 1, not 4chan 2...",
+                "time": "09:52:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2010-12-13",
+                "text": "requesting tag nsfw",
+                "time": "00:16:00",
+                "title": "",
+                "username": "Requesting"
+            }
+        ],
+        "date": "2006-06-11",
+        "filename": "4chancity2.swf",
+        "id": "f355",
+        "raters": 224,
+        "rating": 4.0,
+        "size": 2.3,
+        "tags": [
+            "Music video",
+            "4chan",
+            "Nightmare City",
+            "NSFW"
+        ],
+        "title": "4chancity2",
+        "views": 27998
+    },
+    {
+        "comment_amt": 15,
+        "comments": [
+            {
+                "date": "2007-12-14",
+                "text": "good idea - badly done?",
+                "time": "19:41:00",
+                "title": "eh",
+                "username": "zep"
+            },
+            {
+                "date": "2007-12-14",
+                "text": "#1 Yes, indeed.",
+                "time": "19:46:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2007-12-14",
+                "text": "#1 #2 I agree.",
+                "time": "21:26:00",
+                "title": "",
+                "username": "JeanQue"
+            },
+            {
+                "date": "2007-12-14",
+                "text": "well ... it's not anon_partyhard shit ....",
+                "time": "21:38:00",
+                "title": "",
+                "username": "PA"
+            },
+            {
+                "date": "2007-12-14",
+                "text": "#1 #2 #3 I'm with you",
+                "time": "22:34:00",
+                "title": "",
+                "username": "Poutiska"
+            },
+            {
+                "date": "2007-12-14",
+                "text": "Should have featured M",
+                "time": "22:54:00",
+                "title": "",
+                "username": "Larry Koopa"
+            },
+            {
+                "date": "2007-12-15",
+                "text": "Everyone before this post here, disregard that: i sux cocks.",
+                "time": "06:58:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2007-12-15",
+                "text": "Excuse me for being rude, but this loop is not very pleasing... Clear Errors Made: * Pants are skintight, supposed to be wide * Arms too fat with no elbows * Animation too slow to sync with song * Needs Moot and Snaks",
+                "time": "19:10:00",
+                "title": "",
+                "username": "Mint"
+            },
+            {
+                "date": "2007-12-16",
+                "text": "I agree with everyone above except #7",
+                "time": "02:04:00",
+                "title": "",
+                "username": "BurndOwn"
+            },
+            {
+                "date": "2007-12-16",
+                "text": "The people has spoken! Delete it!",
+                "time": "14:55:00",
+                "title": "",
+                "username": "zep"
+            },
+            {
+                "date": "2008-05-06",
+                "text": "at least some effort could have been put into it",
+                "time": "03:06:00",
+                "title": "",
+                "username": "disgrace"
+            },
+            {
+                "date": "2008-05-17",
+                "text": "Longyotsuba is LOOOOOONG",
+                "time": "20:40:00",
+                "title": "",
+                "username": "no"
+            },
+            {
+                "date": "2008-05-29",
+                "text": "This green haired shit yotsuba bitch banned me again cp ftl.",
+                "time": "21:07:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2009-07-30",
+                "text": "#8 - Mint is a fag",
+                "time": "18:37:00",
+                "title": "asd",
+                "username": "sdsd"
+            },
+            {
+                "date": "2010-10-18",
+                "text": "I agree that this is not peanut butter",
+                "time": "01:05:00",
+                "title": "",
+                "username": "supersexycool"
+            }
+        ],
+        "date": "2007-12-14",
+        "filename": "4chandansen.swf",
+        "id": "f2178",
+        "raters": 131,
+        "rating": 2.8,
+        "size": 0.39,
+        "tags": [
+            "loop",
+            "4chan",
+            "Caramelldansen",
+            "mix"
+        ],
+        "title": "4chandansen",
+        "views": 14945
     },
     {
         "comment_amt": 12,
-        "comments": [],
-        "date": "2008-12-16",
-        "filename": "2012.swf",
-        "id": "f3270",
-        "raters": 104,
-        "rating": 2.6,
-        "size": 5.2,
-        "title": "2012",
-        "views": 10306
+        "comments": [
+            {
+                "date": "2009-06-02",
+                "text": "u should do: Facepunch_mod's",
+                "time": "18:53:00",
+                "title": "",
+                "username": "ananymous"
+            },
+            {
+                "date": "2009-06-02",
+                "text": "this is inaccurate, 4chan doesn't have mods",
+                "time": "19:46:00",
+                "title": "",
+                "username": "booble"
+            },
+            {
+                "date": "2009-06-02",
+                "text": "#2  YOU SURE!?!? :O Then who b& everyone who posts CP etc??",
+                "time": "23:24:00",
+                "title": "",
+                "username": "Azorthian"
+            },
+            {
+                "date": "2009-06-02",
+                "text": "http://www.encyclopediadramatica.com/M00t http://www.encyclope diadramatica.com/index.php/W._T._Snacks",
+                "time": "23:39:00",
+                "title": "",
+                "username": "Azorthian"
+            },
+            {
+                "date": "2009-06-03",
+                "text": "DERP DERP durrrrrrrrrrrrr.",
+                "time": "17:47:00",
+                "title": "#4",
+                "username": "Anon"
+            },
+            {
+                "date": "2009-06-03",
+                "text": "( ... )ing ooooooooooooooooooooooooooooooooooooold.",
+                "time": "21:54:00",
+                "title": "",
+                "username": "TheCancer"
+            },
+            {
+                "date": "2009-06-09",
+                "text": "unfunny shit",
+                "time": "21:11:00",
+                "title": "",
+                "username": "fffffffffffffffg"
+            },
+            {
+                "date": "2009-08-16",
+                "text": "/r/ song used during those staring scenes",
+                "time": "07:52:00",
+                "title": "/r/",
+                "username": "aaraa"
+            },
+            {
+                "date": "2010-06-18",
+                "text": "Welcome to 4chan.",
+                "time": "17:03:00",
+                "title": "",
+                "username": "meh"
+            },
+            {
+                "date": "2011-07-12",
+                "text": "Yo dawg, I herd you like flash animation...",
+                "time": "01:23:00",
+                "title": "",
+                "username": "LordJebe"
+            },
+            {
+                "date": "2011-07-12",
+                "text": "Yo dawg, I herd you like flash animation.",
+                "time": "01:24:00",
+                "title": "",
+                "username": "LordJebe"
+            },
+            {
+                "date": "2011-07-12",
+                "text": "Double post fail FTW",
+                "time": "01:24:00",
+                "title": "",
+                "username": "LordJebe"
+            }
+        ],
+        "date": "2009-06-02",
+        "filename": "4chanmod.swf",
+        "id": "f4098",
+        "raters": 111,
+        "rating": 3.1,
+        "size": 0.337,
+        "tags": [
+            "humor",
+            "4chan"
+        ],
+        "title": "4chanmod",
+        "views": 9401
+    },
+    {
+        "comment_amt": 5,
+        "comments": [
+            {
+                "date": "2010-03-21",
+                "text": "so...friggin...laggin... captcha:post",
+                "time": "19:43:00",
+                "title": "",
+                "username": "Zgredo"
+            },
+            {
+                "date": "2010-03-22",
+                "text": "needs moar keppana",
+                "time": "00:40:00",
+                "title": "",
+                "username": "remuli906"
+            },
+            {
+                "date": "2010-03-22",
+                "text": "Epic... 3lite. L33t Coolface :D",
+                "time": "16:51:00",
+                "title": "",
+                "username": "Nick"
+            },
+            {
+                "date": "2010-03-23",
+                "text": "Thats the Trollface, not coolface.",
+                "time": "06:39:00",
+                "title": "",
+                "username": "Anonymousofcocks"
+            },
+            {
+                "date": "2010-09-09",
+                "text": "13.5 MB and not worth one bit.",
+                "time": "18:45:00",
+                "title": "",
+                "username": "Anonymous"
+            }
+        ],
+        "date": "2010-03-21",
+        "filename": "4chans_Party_Hard.swf",
+        "id": "f5824",
+        "raters": 78,
+        "rating": 3.6,
+        "size": 13.5,
+        "tags": [
+            "Loop",
+            "tainted love hard"
+        ],
+        "title": "4chans Party Hard",
+        "views": 8285
+    },
+    {
+        "comment_amt": 35,
+        "comments": [
+            {
+                "date": "2008-11-13",
+                "text": "old but funny",
+                "time": "23:19:00",
+                "title": "",
+                "username": "asddasasd"
+            },
+            {
+                "date": "2008-11-13",
+                "text": "I'm stuck in /jp/. Have I to kill the monster or something?",
+                "time": "23:44:00",
+                "title": "",
+                "username": "Anonybierequimousse"
+            },
+            {
+                "date": "2008-11-13",
+                "text": "I'm also stuck in /jp/",
+                "time": "23:47:00",
+                "title": "",
+                "username": "aasdd"
+            },
+            {
+                "date": "2008-11-14",
+                "text": "I dropped shii's box inside shii's box... It vanished along with everything in it...",
+                "time": "03:13:00",
+                "title": "well, shit...",
+                "username": "Anon"
+            },
+            {
+                "date": "2008-11-14",
+                "text": "Use the gateway to get back to the start, and put the machine code into  Virtuanet Portalizer",
+                "time": "07:03:00",
+                "title": "",
+                "username": "Eechi"
+            },
+            {
+                "date": "2008-11-14",
+                "text": "I am stuck with the logo part. Damn, thats hard...",
+                "time": "14:28:00",
+                "title": "",
+                "username": "gorgeous"
+            },
+            {
+                "date": "2008-11-14",
+                "text": "Okay, I need some serious help there. I spent like 1,5h after going to 4chan for the first time. I got the gateway, i can examine the logo and thats all i can do...",
+                "time": "15:17:00",
+                "title": "",
+                "username": "gorgeous"
+            },
+            {
+                "date": "2008-11-14",
+                "text": "Grab the gateway Go 4chan north Talk to the Scientologist Use hyperlink on /jp/ Go /jp/ Go East Talk to Shinichi Watanabe Go West Go West Go West Go North Use DDR Machine Take Machine Code Use Gateway Use Machine Code on Portalizer Go Habbo Hotel Go East Use Elevator Use Afro on duck statue Take Proxy Use Proxy Open Pool Take AIDS Use Elevator Go West Go West Go North Use AIDS on Nigra Open Briefcase Take hyperlink Go South Go West Go South Open Dresser Take Dollar Use Gateway Go 4chan Stumble around and find the portal to /v/ Use hyperlink on /v/ Go /v/ Go north Use Dollar on Manager Go South Go South Go East Go Down Use Battletoads on machine Get Apple Go up Go West Go West Go North Go Down Get fire Go up Go north Use fire on bush Go down Get barrel Open barrel Get lakutu's cloud Go up Go west Go west Go west Go down Go north Go east Go south Go down Go down Use Apple on The Guy Get The gun Go up Go up Go north Go west Go south Go uo Go south Open rock Take machine code Use machine code on portalizer Go Youtube Go north Go Tom Green Use barrel on tom green Get microphone Go Youtube Go north Go Chocolate rain Use microphone on Tay Get chocolate rain. That's as far as I could muster for now.",
+                "time": "16:13:00",
+                "title": "I can't promise this is exact, I'm recalling from memory (the direcetions in particular)",
+                "username": "way too much time on hands"
+            },
+            {
+                "date": "2008-11-15",
+                "text": "HUGE TIP: DO NOT EXAMINE THE BRIEFCASE",
+                "time": "16:57:00",
+                "title": "",
+                "username": "an"
+            },
+            {
+                "date": "2008-11-15",
+                "text": "lol I went outside and died. is it over?",
+                "time": "17:22:00",
+                "title": "",
+                "username": "on"
+            },
+            {
+                "date": "2008-11-15",
+                "text": "I took pics of naked sister, and put them into the scanner. what now?",
+                "time": "19:13:00",
+                "title": "",
+                "username": "aaa"
+            },
+            {
+                "date": "2008-12-02",
+                "text": "I'm up to /b/ but I can't figure out much past it.",
+                "time": "04:27:00",
+                "title": "",
+                "username": "none"
+            },
+            {
+                "date": "2009-01-29",
+                "text": "How do I use the steroids? The needle I found won't work...",
+                "time": "02:27:00",
+                "title": "",
+                "username": "a"
+            },
+            {
+                "date": "2009-12-16",
+                "text": "I managed to get to youtube, but the portals there seem not to work; i type \"go to Tom Green\", but it says theres no such portal, altough it appears at Exits wtf...",
+                "time": "07:10:00",
+                "title": "",
+                "username": "maan"
+            },
+            {
+                "date": "2009-12-16",
+                "text": "omg when you are dead, think a moment, the game is still on ;) basic commands and logic ftw but what to to after sd card content scanned and sent to hub? how do i access it?",
+                "time": "08:04:00",
+                "title": "",
+                "username": "swirl..."
+            },
+            {
+                "date": "2010-11-24",
+                "text": "I might be a little late with this, but for the ones of you, who still have problems with the solution to this game, here is a little walkthrough of mine: 1: I would recommend using this walkthrough, only as help for certain sections, since just playing the game while being told exactly what to, is not really playing the game, now, is it? ^^ O.K, whatever, let's start: If you don't know the basic controls of the game: type \"help\"",
+                "time": "22:14:00",
+                "title": "",
+                "username": "part 1"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "2: (A) Helpful Weeaboos After reading through the manual, take the gateway and type \"go (to) 4chan\". Once, you're there go north and talk to the scifag, who will drop a Hyperlink. Pick it up and insert it into the \"Portal to /jp/\". Go to /jp/. Go north to pick up 1 bowl of Ramen, you will need it later. Now, head South. When you come across a dumpster, open it and take the Butter and the Fake ID, which is needed to get into another place in /jp/. You'll also want to pick up the Pokeball, which is in the room with the Tentacle Monster. After getting the Pokeball, get back to where you entered /jp/. Now, go west first. When you get the choice, go north; there you will find a DDR machine. Use it! Pick up the code and go south until you get to Shii's box. Take the box, open it and take the Shii. (If you go eastwards, from here, you will find a secret room, which contains the \"Bag of Holding\". It's nice to have a secret in this kind of game, but it's not all that useful, to be honest) Go back to the room, in which you entered /jp/ and now go east. Talk to Watanabe and he will give you an Afro, which will also be needed, very soon. Now head north and take the Hitachi Magic Wand.",
+                "time": "22:16:00",
+                "title": "",
+                "username": "part 2"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Use the Gateway to get back to your Hub. tl;dr: the items in /jp/: Fake ID, Ramen, Butter, Pokeball, Box, Shii, Afro, Hitachi Magic Wand (+ Bag of Holding) P.S: If you don't want to run around, naked, you can also pick up a shirt, and pants ^^",
+                "time": "22:17:00",
+                "title": "",
+                "username": "part 3"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "(B) Welcome to the World of Fieldcraft! Use the Machine Code on the Portalizer and enter the Habbo Hotel. (If you examine the receptionist, you will see a picture of Gianna Micheals, if I see this correctly.. She's totally hot... just thought, i'd put that out there.) Go to the East from here, and use the elevator. Now, use the Afro you accuired from Mr. Watanabe on the Duck. Pick up the Proxy and use it to turn it on. Now, open the Pool and take the AIDS. Go back down to the Receptionist and head to the West from there. North. Use the AIDS on the Nigra and pick up the briefcase. Open it - without examining it!! (srsly, don't examine it =P) - and take the Hyperlink inside. Exit the Nigra's room and go further to the West. South. Open the Dresser and take the \"A Dollar\". Use the Gateway in order to come back to your Hub. Habbo Hotel tl;dr: Items: Proxy, Hyperlink, Briefcase, A Dollar",
+                "time": "22:18:00",
+                "title": "",
+                "username": "part 4"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Now, Reenter 4chan and go East. Use the Hyperlink to enter the /v/-board. This little main map conists of 9 fields, which are called by there positions on the map. First go north to get to the Manager on field (1|2). Use the A Dollar on him to get a copy of everyone's most favourite game, called \"Battletoads\". Go to (2|1) and open the rock to find another Machine Code. After that, go to (3|1) and, from here, climb down. Use Battletoads on the WOPR and take the apple (it could as well be a cherry, though). Head back up and then to field (2|3). Go down. Talk to Error and pick up 1 Mysql_error. You'll also want 1 fire. Once you got the Mysql_error and the fire, go to (1|3), burn the bush and descend into the Barrel-room. Pick up the Barrel, open it, take the cloud. Now, go to (1|1). Descend into the Dwarven Fortress and follow the path to The Guy. (Don't worry, this will not be as hard as the actual IWBTG.) Use the Apple (or cherry) on him (You see? This wasn't that hard ^^). Take his gun and use the closet. Make your way to the Treasure Chest. On the way there, kill the Farfetch'd with the Pokeball (whatever xD) and take it's leek.",
+                "time": "22:19:00",
+                "title": "",
+                "username": "part 4"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Open the chest and take the trophy. Descend and.. well, you don't need me to figure out, what to do in this room.. then, take the Hyperlink and use the Trophy. Use the Sandbag. Take the other Trophy, if you want to get back to where you came from, but if you already got the Hyperlink, there won't be any need for that. Make sure, however, to take the Haddaway CD with you. Use the Gateway to make your way back to your Hub. tl;dr: Items: Machine Code, Hyperlink, Fire, Mysql_Error, Lakitu Cloud, Barrel, Leek, Haddaway CD, (2 Trophies).",
+                "time": "22:19:00",
+                "title": "",
+                "username": "part 6"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "(C) Broadcasr Yourself. Now, that you have the next Machine Code, you can use it to go to Youtube! Do so. Go to Tom Green and use the Barrel on him. Take his mic. (By the way, in order to get to a channel, you have to type \"go (last name)\" and if you want to interact with s.o. on his channel, you have to type his first name.) Go back to Youtube and make your way to Zonday. Use the mic on Tay and take his Chocolate Rain. Get back to Youtube and head to Ren and Stimpy (-> \"go to stimpy\"). DO NOT PRESS THE BUTTON!!! I'm serious , Do NOT press it! EVER!! Take the Can of Powdered Toast and reenter the main map of Youtube. At Jim Carrey's, you will want to use the Haddaway CD on Jim and go back, again. Go to the Sea of Cheese, open the boat, take the baby, go back to Youtube. Now, it's time to go to Rick Astley. use Jim's Love Dance on him, take the Rickroll and go back to your Hub via the Gateway. tl;dr: DON'T PRESS THE ( ... )ING BUTTON!!! Items: Microphone, Chocolate Rain, Love Dance, Rickroll, Can of Powdered Toast, itty bitty baby.",
+                "time": "22:20:00",
+                "title": "",
+                "username": "part 7"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "(D) From Weeaboos to Furfags Go to 4chan. Once you're at the Portal to /a/, use your newly acquired Hyperlink to enter the board. Go north and then east to enter a house. Use the Rickroll on the Caramel Dancers. (If you want to hear this nice, swedish song, you might want to examine them before using the Rickroll.) You will get the next Hyperlink from them. Go north, open the dresser, take the uniform, wear the uniform, go back outside the building, go north, then down, then down again, then up. North. Use the Ramen on Naruto. He will teach you his ultimate maneuver, the Sexyjutsu. Head back to the field you were on, when entering the /a/-board. Now, go east to enter the Onsen. Trade your Leek with Orihime for a Spincock. Head west, until you're in a classroom (you can only enter this room, if you are wearing the uniform, so make sure to do so). Open the desk and take the book. Head back to the west until you have the opportunity to go south. Do so. Use the book on Taichi and steal the bike. Gateway yourself back to the Hub. tl;dr: If you don't know, what to do, this place might be a little confusing/distracting, sometimes. Just try, not to lose focus, i guess. Items: Hyperlink, School Uniform, Spincock, Sexyjutsu, Bike",
+                "time": "22:21:00",
+                "title": "",
+                "username": "part 8"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Go to 4chan, again. Use the Hyperlink on the Portal of /f/ and go there. Once you're there, you can already see, what's wrong. Furries. There everywhere. I personally like to kill them with fire. Every single one of them. But most of the time it doesn't do much. You will, however, be interested in using fire on the Furpile to get the bottle of pheromones, the Anubis to get a badge and the 255+ Furfags who will leave a Machine Code behind, as well as the Dota Dancers (-> Hyperlink). Get back to the Hub by using your helpful, little Gateway. tl;dr: Kill it! Kill it with fire!! Items: Hyperlink, Con-Badge, Machine Code, Bottle of Pheromones Once you're back in your hub, you can use the Machine Code on the Portalizer to create a Portal to Fox News. Don't bother going there, however, since you can't do much, there. YET.",
+                "time": "22:21:00",
+                "title": "",
+                "username": "part 9"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "(E) A Vagina and Da Hood Go to 4chan. Do what it takes to enter /d/. Now, use the Hitachi Magic Wand on the Clit in front of you. Take the juices and enter the giant woman by going north. You will eventually come across Tubgirl (I don't know about you, but I like her). Use the Chocolate Rain on her and pick up the Code. Continue to the North until you get to Bridget. Talk to her/him and then pick her/him up. (You can only enter Bridget's room, if you made sure to take the ITTY BITTY BABY, by the way.) Find Goatse and use the Vaginal Juices on him. Look inside him (God, that's so ( ... )ing gross) and take Teh Rei. Descend from Goatse's room to come to the ovary. Use it and take the steroids. Use your Gateway and go back to the Hub. tl;dr: You enter a giant woman! Best game ever. Period. Items: Machine Code, Bridget, Teh Rei, Steroids",
+                "time": "22:22:00",
+                "title": "",
+                "username": "part 10"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Use your Machine Code to open a Portal to Da Hood. Go There. Take the Ride and go south to shoot DMX with The Guy's Gun to receive the Lazer. Look for the Nigger. When you come to her, take her with you. Then, find the Nigga. Use the bike on him and take the Hyperlink. When you come across a No-U Sign, use the Ride on it and pick the sign up. Get back to your warm and comfortable Hub through the use of your Gateway. tl;dr: This one is very straight forward.. just don't use the weed you find.. it only makes things more confusing. Items: Bitchin' Ride, No-U Sign, Hyperlink, Nigger, Mah Lazer",
+                "time": "22:23:00",
+                "title": "",
+                "username": "part 11"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "(F) Naked little sisters ftw! Log off. Yeah, didn't know you could do that, huh? Well, me neither. I came across this discovery the hard way. I pressed the button at Ren and Stimpy's and lost the game by doing so. The fact, that it sais, that I cannot log back on, made me think about being able to log off. And so I did.. after restarting the game, of course. This discovery is one of the key-elements of the solution for this frickin game. So, now, just type \"log off\" to.. well, log off. Now, you find yourself in your actual room. Awesome, right? Well, not really. At first, open the nightstand and take the camera. Then go up. East. Open the cabinet to get a kitchen knife. West. Up. West. Take Pictures of your naked Loli-sister and go back to your room. Take the SD-card out of the Camera and use it on The Scanner. Now, log on, again. Take the CP.",
+                "time": "22:26:00",
+                "title": "",
+                "username": "part 12"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "(If you actually manage to get your stupid face killed by going outside your house, just \"go to hell\" (literally) and collect some kitties. Sacrifice them and Raptor Jesus will resurrect your sorry, little ass. This, however can only be done a couple of times, since you only have a defined amount of kittens. So, try, not to be too ass-breakingly stupid. If you kill yourself too many times, the game will pretty much just stop and you will have to reset the game/ reload the page.) tl;dr: Get some CP Items: CP",
+                "time": "22:27:00",
+                "title": "",
+                "username": "part 13"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Go to 4chan. Go to /b/. Drop your MYSQL_ERROR into the file field and use the post button. Pick up the E-Mail Field and the Post Button. Kill Sage-Man with Rei-Chan and take the Sage. Go Up. Use the CP on Hansen an go to the East. Give Bridget to the Pedobear and take her Girdle and the F5 Button. Use the latter and jump down again. Re-ascend and avoid Hansen this time. Shove the Spincock into the Cockmongler's throat and take the Web (this is so gross! xD). Go all the way up and use the No-U Sign on the No-U Guy to create copypasta. Use this on the Nigger to come up with Sixty Niggers. Go back down, a bit, and hand the Sixty Niggers over to the Happy Negro, who will give you 1 Internet for them. Press F5, again, and use the Internet on EFG. Take the Code and use your gateway to teleport back to your you-know-what. tl;dr: Follow the Memes Items: Machine Code, Email Field, Post Button, Sage, Girdle of Gender, F5, Web, An Internet",
+                "time": "22:28:00",
+                "title": "",
+                "username": "part 14"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "(G) It's going to end, soon With this last Machine Code you can enter The Kitchen to finally face the Final Boss of the Internet! And he deserves this title! This is truly the hardest challenge, so far. Kill him with a Sage-filled Email and gateway back to the Hub. tl;dr: Kill him. Items: The stuff you get from the Final Boss. Now get yourself back to 4chan. Instead of wandering around all over the stinking place, not knowing what to do, just masturbate for a second (type for example \"fap\"). Now, it's finally time for the Toast!! Hell, yeah. Use the Can you took at Ren and Stimpy's (which you hopefully did) and pick up the toast. Use the Butter from the beginning on the toast. Now, use the cum, you received by fapping, on the buttered toast and after that, use the Shii on the sticky, buttered toast. This way, you will get an anti-gravitational device. After this bit of silliness is done, use the Clover you got from the Final Boss on the 4chan Logo. Then use the Device on the Logo and after that you can use the Logo itself to teleport yourself to /5/.",
+                "time": "22:29:00",
+                "title": "",
+                "username": "part 15"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Once you're there, you don't have much of a choice, but to go in the direction north. On your way, use the Box on Longacat and the Girdle on m00t. Pick up his hammer. take the Guy-Fawkes mask and wear it. Take the Internet Hate Machine. Use your Gateway to blah. tl;dr: Fix the 4chan Logo and get help from Longcat and m00t himself. Items: Perma-Ban Hammer, Longcat's Box, Guy Fawkes Mask, Internet Hate Machine",
+                "time": "22:30:00",
+                "title": "",
+                "username": "part 16"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "(H) HATRED! Go to Fox News. Drop the Internet Hate Machine and use it to destroy the entire goddamn site. Go north and open the Password Folder go West and open the Passwords Folder. Take what you need and drop the word-pieces into the Password Folder. The Password is \"DSFARGEG\". Use the Post Button and go East. Use the Bottle of Pheromones on the fox and take it. Then, use the Steroids on it. Teleport back to your Hub. tl;dr: Use the Items you've got Items: Beefy Fox",
+                "time": "22:31:00",
+                "title": "",
+                "username": "part 17"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Go to - you guessed it - 4chan! For the last time in this game. Go north. Drop Longcat's Box and use it. Enter /x/. Finally. Use the Fox on the Dog and Head north. Open the curtains and go through them (I don't expect anyone to actually not being able to figure this one out without me, but I have a history of being wrong about such things. Especially when it's about 4chan). Use the Web on the Redshirt and go East. Then Up. Use the Soulcatcher Machine and pick up some Thetan. Descend again. West, West, North and let the Thetan possess the E-Meter. Type \"Imma Chargin Mah Lazer\" and then \"Imma Firin Mah Lazer\". Take the Badge and make your way to the Scientologist. Talk to him to reveal who he really is. (I already spoiled so many aspects of the game, I really don't think, I should spoil this secret, as well.) Talk to him again, this time with his real name. Then defeat him with whatever you see most appropriate. ^^ Then, read your way through the awesome fight scene and enjoy the epilog.",
+                "time": "22:32:00",
+                "title": "",
+                "username": "part 18"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "3: That's it. The Game is officially over and you have mastered all the shit it was throwing at you. Someone in here surely is pretty awesome. But seriously, this game was fun. I liked it very much, even if was a little disgusting at some points. =P And if someone would make a sequel to this, or something like that, I would totally love to play it as well as to make another walkthrough. There you go, a complete walkthrough. Sorry for being so late, but, now, I finally delivered. I would still like to point out, that every move you have to make in order to end this game victorious can be found by examining stuff and thinking about what exactly the creator of this game writes. Even if it's hard to come up with the solution, in some situations, it is still not impossible to beat this game, we like to call \"A 4Chan's Tale (Revised 2)\"",
+                "time": "22:33:00",
+                "title": "",
+                "username": "part 19"
+            },
+            {
+                "date": "2010-11-24",
+                "text": "Actually, it's not really very easy to fail at this game. You should just try, not to be stupid. The only things you have to remember are: -Don't press the IPB (Internet Power Button) -Don't go outside too many times -Don't drop important items into themselves (e.g. don't drop Shii's Box into Shii's Box or the Barrel into the Barrel), since they will disappear, which would break the game entirely. -And don't examine the briefcase, I guess",
+                "time": "23:12:00",
+                "title": "",
+                "username": "P.S."
+            }
+        ],
+        "date": "2008-11-13",
+        "filename": "4Chans_Tale_Revised_2.swf",
+        "id": "f3161",
+        "raters": 60,
+        "rating": 2.5,
+        "size": 2.1,
+        "tags": [
+            "game",
+            "4chan"
+        ],
+        "title": "4Chans Tale Revised 2",
+        "views": 12813
     },
     {
         "comment_amt": 2,
-        "comments": [],
-        "date": "2011-08-25",
-        "filename": "2039-Final-jap.swf",
-        "id": "f9425",
-        "raters": 29,
-        "rating": 1.8,
-        "size": 6.5,
-        "title": "2039-Final-jap",
-        "views": 3832
+        "comments": [
+            {
+                "date": "2008-11-02",
+                "text": "newfags are new",
+                "time": "02:56:00",
+                "title": "",
+                "username": "sage"
+            },
+            {
+                "date": "2009-04-29",
+                "text": "\u00c3\u00bajbuzik \u00c3\u00bajbuzibbak",
+                "time": "02:57:00",
+                "title": "ZS\u00c3\u0081LYA",
+                "username": "F\u00c3\u00bcty Imre"
+            }
+        ],
+        "date": "2007-02-26",
+        "filename": "4chantouhou.swf",
+        "id": "f974",
+        "raters": 139,
+        "rating": 2.4,
+        "size": 0.773,
+        "tags": [
+            "Loop",
+            "Touhou"
+        ],
+        "title": "4chantouhou",
+        "views": 19585
     },
     {
-        "comment_amt": 25,
-        "comments": [],
-        "date": "2008-11-22",
-        "filename": "2185.swf",
-        "id": "f3188",
-        "raters": 384,
+        "comment_amt": 14,
+        "comments": [
+            {
+                "date": "2007-09-06",
+                "text": "true story",
+                "time": "22:48:00",
+                "title": "",
+                "username": "fhgrdagtearg"
+            },
+            {
+                "date": "2007-09-06",
+                "text": "I missed the funny part...",
+                "time": "23:10:00",
+                "title": "",
+                "username": "dude"
+            },
+            {
+                "date": "2007-09-07",
+                "text": "Song title? sounds familar like dr. bombay",
+                "time": "02:14:00",
+                "title": "Song?",
+                "username": "Seans"
+            },
+            {
+                "date": "2007-09-07",
+                "text": "Old flash is old. The song is by Dr. Bombay.",
+                "time": "02:28:00",
+                "title": "",
+                "username": "B"
+            },
+            {
+                "date": "2007-09-07",
+                "text": "funniest scene in My Name is Earl ever xD",
+                "time": "11:11:00",
+                "title": "hahah",
+                "username": "Eiji"
+            },
+            {
+                "date": "2007-09-07",
+                "text": "7chan? What the hell?",
+                "time": "15:15:00",
+                "title": "",
+                "username": "Sage=Fag"
+            },
+            {
+                "date": "2007-09-07",
+                "text": ">>#6 Are you serious?",
+                "time": "16:11:00",
+                "title": "",
+                "username": "lo.ol"
+            },
+            {
+                "date": "2007-09-07",
+                "text": "bla... that\u00b4s not funny -.-",
+                "time": "18:07:00",
+                "title": "",
+                "username": "BurndOwn"
+            },
+            {
+                "date": "2007-09-09",
+                "text": "Detta suger kuk.",
+                "time": "06:42:00",
+                "title": "",
+                "username": "Prefer English (Fin/Swe is also accepted)"
+            },
+            {
+                "date": "2007-09-09",
+                "text": "Rules?    4- or 7chan ?",
+                "time": "17:45:00",
+                "title": "Wich one",
+                "username": "Sooo"
+            },
+            {
+                "date": "2007-09-09",
+                "text": ">>#10 4chan http://dy.fi/i4s",
+                "time": "18:00:00",
+                "title": "",
+                "username": "mRkukov"
+            },
+            {
+                "date": "2007-09-29",
+                "text": "FYI, the song is: Dr. MacDoo - Machachula hula dance",
+                "time": "16:44:00",
+                "title": "i know everything :O",
+                "username": "Gacko"
+            },
+            {
+                "date": "2007-09-29",
+                "text": "So stupid and unfunny that it could only be true.",
+                "time": "20:27:00",
+                "title": "",
+                "username": "p0n0s"
+            },
+            {
+                "date": "2008-07-06",
+                "text": ">>#12 Song's \"Indy Dancing\" - Dr. Bombay",
+                "time": "11:22:00",
+                "title": "WRONG",
+                "username": "snaf"
+            }
+        ],
+        "date": "2007-09-06",
+        "filename": "4chanvs7chan.swf",
+        "id": "f1785",
+        "raters": 207,
+        "rating": 4.0,
+        "size": 1.9,
+        "tags": [
+            "loop"
+        ],
+        "title": "4chanvs7chan",
+        "views": 17850
+    },
+    {
+        "comment_amt": 4,
+        "comments": [
+            {
+                "date": "2007-06-08",
+                "text": "44chan sucks.",
+                "time": "07:45:00",
+                "title": "",
+                "username": "Nameynameson"
+            },
+            {
+                "date": "2007-06-09",
+                "text": "and u are a gummy bear",
+                "time": "23:13:00",
+                "title": "",
+                "username": "lol"
+            },
+            {
+                "date": "2007-06-14",
+                "text": "Song called?",
+                "time": "16:49:00",
+                "title": "",
+                "username": "asdsad"
+            },
+            {
+                "date": "2009-01-15",
+                "text": "I think that's Wario's Theme from DDR Mario Mix. I could be wrong, though.",
+                "time": "22:20:00",
+                "title": "",
+                "username": "Y HALO THAR"
+            }
+        ],
+        "date": "2007-06-06",
+        "filename": "4chanwelcome.swf",
+        "id": "f1405",
+        "raters": 87,
+        "rating": 2.7,
+        "size": 3.5,
+        "tags": [
+            "Music video",
+            "4chan"
+        ],
+        "title": "4chanwelcome",
+        "views": 13628
+    },
+    {
+        "comment_amt": 5,
+        "comments": [
+            {
+                "date": "2008-01-08",
+                "text": "I came buckets",
+                "time": "06:28:00",
+                "title": "",
+                "username": "ANON"
+            },
+            {
+                "date": "2008-01-09",
+                "text": "am I supposed to say \"Holy sh**, I've been rickrolled!\" now?",
+                "time": "21:44:00",
+                "title": "",
+                "username": "Hideki"
+            },
+            {
+                "date": "2008-01-22",
+                "text": "good",
+                "time": "12:37:00",
+                "title": "",
+                "username": "bob"
+            },
+            {
+                "date": "2009-05-10",
+                "text": "`A front for a Black singer` Cut to hung-over, yet happy, black man...",
+                "time": "14:50:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2013-10-31",
+                "text": "I was expecting a remix, I'm disappointed.",
+                "time": "22:10:00",
+                "title": "",
+                "username": "Aya"
+            }
+        ],
+        "date": "2008-01-07",
+        "filename": "4chan_-_Battle_Royale.swf",
+        "id": "f2260",
+        "raters": 141,
+        "rating": 3.8,
+        "size": 7.9,
+        "tags": [
+            "Music video",
+            "Rick Roll info"
+        ],
+        "title": "4chan - Battle Royale",
+        "views": 68771
+    },
+    {
+        "comment_amt": 14,
+        "comments": [
+            {
+                "date": "2008-11-01",
+                "text": "Nicey'~ ^^",
+                "time": "22:38:00",
+                "title": "",
+                "username": "Owlbeast"
+            },
+            {
+                "date": "2008-11-01",
+                "text": "just got Rick Rolled :D",
+                "time": "22:59:00",
+                "title": "You",
+                "username": "astley"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "Ha, clever.",
+                "time": "02:11:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "\"Hey 4chan, these guys are scientologists.\"",
+                "time": "04:02:00",
+                "title": "",
+                "username": "ShadowMan"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "kinda cute lol",
+                "time": "04:30:00",
+                "title": "",
+                "username": "Flyff"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "4chan. best.",
+                "time": "04:44:00",
+                "title": "",
+                "username": "jekidmcwtfijustwrit?"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "\"Hey 4chan, these guys are scientologists.\" This made my day. Also, the Rick Roll in the end.",
+                "time": "04:52:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "Oh I love mudkipz",
+                "time": "11:39:00",
+                "title": "",
+                "username": "Hideki"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "lame\u00c2\u00b2",
+                "time": "13:26:00",
+                "title": "",
+                "username": "9lut4m4t"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "http://www.cracked.com/video_16271_internet-party-2-intervention- myspace.html For better quality.",
+                "time": "18:40:00",
+                "title": "",
+                "username": "Player"
+            },
+            {
+                "date": "2008-11-02",
+                "text": "hahaha! oh wow",
+                "time": "18:49:00",
+                "title": "",
+                "username": "perkeleen l\u00c3\u00a4hettil\u00c3\u00a4s"
+            },
+            {
+                "date": "2008-11-30",
+                "text": "You just got Rick Rolled :D",
+                "time": "16:46:00",
+                "title": "",
+                "username": "ErakkoPapu"
+            },
+            {
+                "date": "2010-07-10",
+                "text": "That was fantastic. LESBOS FOR THE WIN",
+                "time": "08:12:00",
+                "title": "",
+                "username": "onan"
+            },
+            {
+                "date": "2010-10-21",
+                "text": "adultfriendfinder: I know 12 girls in this are who want sex TONIGHT! youporn: how about staying in and watching a movie??? XD",
+                "time": "17:20:00",
+                "title": "",
+                "username": "anon"
+            }
+        ],
+        "date": "2008-11-01",
+        "filename": "4chan_and_the_intervention.swf",
+        "id": "f3131",
+        "raters": 147,
+        "rating": 4.1,
+        "size": 7.8,
+        "tags": [
+            "humor",
+            "4chan",
+            "(the end is best)"
+        ],
+        "title": "4chan and the interve..",
+        "views": 13168
+    },
+    {
+        "comment_amt": 18,
+        "comments": [
+            {
+                "date": "2009-07-08",
+                "text": "Q-tip? It's the Chemical Brothers you animal humping mongrel. Also, it's /b/, not /B/.",
+                "time": "19:11:00",
+                "title": "",
+                "username": "-"
+            },
+            {
+                "date": "2009-07-08",
+                "text": "I was there, I saw the horror, I am part of histoy in the making. Also 5'd",
+                "time": "20:01:00",
+                "title": "",
+                "username": "Noko"
+            },
+            {
+                "date": "2009-07-08",
+                "text": "hahaha pretty funny though when you think about it. It wouldn't be right if it wasn't something that caused a little controversy.",
+                "time": "20:18:00",
+                "title": "",
+                "username": "domino"
+            },
+            {
+                "date": "2009-07-09",
+                "text": "Well... Lol'd. BTW, whats /B/?",
+                "time": "03:00:00",
+                "title": "",
+                "username": "LordJebe"
+            },
+            {
+                "date": "2009-07-09",
+                "text": "#4 Go to 4chan.org and find out... When you get there, try finding out what \"CP\" is.",
+                "time": "05:11:00",
+                "title": "",
+                "username": "PenZon"
+            },
+            {
+                "date": "2009-07-09",
+                "text": "That get was full of fail. What is /B/?",
+                "time": "07:06:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2009-07-09",
+                "text": "wtf is /B/? oh wait...it is made by a furfag. i'd say kill it with fire that furfag. CAPCHA: THAI",
+                "time": "09:35:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2009-07-09",
+                "text": "/B/? DoHohohoho",
+                "time": "12:10:00",
+                "title": "",
+                "username": "tripfaggot"
+            },
+            {
+                "date": "2009-07-09",
+                "text": "im 12 and wat is this?",
+                "time": "13:33:00",
+                "title": "",
+                "username": "zuh"
+            },
+            {
+                "date": "2009-07-10",
+                "text": "Where do I get that pic?",
+                "time": "02:32:00",
+                "title": "",
+                "username": ""
+            },
+            {
+                "date": "2009-07-10",
+                "text": "Im 12 and what is /B/",
+                "time": "05:10:00",
+                "title": "",
+                "username": "g12"
+            },
+            {
+                "date": "2009-07-10",
+                "text": "This furfag fills me with maniacal RRRRAAAAAAAAAAAAAGGGGGEEEEEEEEEE",
+                "time": "07:18:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2009-07-10",
+                "text": "#12 how about a big cup of yummy raaaaaaaaaaaaagggggeeeeeeee?",
+                "time": "13:11:00",
+                "title": "",
+                "username": "meh"
+            },
+            {
+                "date": "2009-08-04",
+                "text": "that never happened it's a shoop",
+                "time": "03:14:00",
+                "title": "",
+                "username": "sadsada"
+            },
+            {
+                "date": "2009-08-16",
+                "text": "i dont even",
+                "time": "22:00:00",
+                "title": "what is this",
+                "username": "EphraimDesole"
+            },
+            {
+                "date": "2010-06-24",
+                "text": "10/10 would rage again",
+                "time": "01:34:00",
+                "title": "",
+                "username": "Fgt"
+            },
+            {
+                "date": "2011-05-26",
+                "text": "We do not forget But we always FurrGet!",
+                "time": "06:39:00",
+                "title": "",
+                "username": "darkcore09"
+            },
+            {
+                "date": "2011-09-29",
+                "text": ">implying this wasn't a script",
+                "time": "07:41:00",
+                "title": "",
+                "username": "Hurfdurf"
+            }
+        ],
+        "date": "2009-07-08",
+        "filename": "4chan_b.swf",
+        "id": "f4258",
+        "raters": 133,
+        "rating": 2.8,
+        "size": 0.426,
+        "tags": [
+            "Humor",
+            "4chan"
+        ],
+        "title": "4chan b",
+        "views": 9373
+    },
+    {
+        "comment_amt": 17,
+        "comments": [
+            {
+                "date": "2007-09-05",
+                "text": "Made out of pure AIDS, 5'd.",
+                "time": "21:38:00",
+                "title": "",
+                "username": "anon"
+            },
+            {
+                "date": "2007-09-05",
+                "text": "Omg 4chan ftw, kill desu with FIRE!",
+                "time": "22:31:00",
+                "title": "",
+                "username": "Omg"
+            },
+            {
+                "date": "2007-09-06",
+                "text": "Everything about 4chan gets auto 5* here, so I gave it 1*.",
+                "time": "01:02:00",
+                "title": "",
+                "username": "B"
+            },
+            {
+                "date": "2007-09-06",
+                "text": "Why? Just becuase it's 4chan?",
+                "time": "01:21:00",
+                "title": "->B",
+                "username": "Omg"
+            },
+            {
+                "date": "2007-09-06",
+                "text": "/b/ is the cancer that's killing /b/ moot is a spider expert",
+                "time": "03:49:00",
+                "title": "",
+                "username": "dafgtegteagf"
+            },
+            {
+                "date": "2007-09-06",
+                "text": "sweet, i",
+                "time": "09:47:00",
+                "title": "",
+                "username": "Dyne"
+            },
+            {
+                "date": "2007-09-06",
+                "text": "4chan is not funny... never was... never will be...",
+                "time": "19:52:00",
+                "title": "",
+                "username": "dude"
+            },
+            {
+                "date": "2007-09-06",
+                "text": "So, they made another parody of Nightmare City. Cool, I laughed :D",
+                "time": "21:22:00",
+                "title": "",
+                "username": "Ilzo"
+            },
+            {
+                "date": "2007-09-15",
+                "text": "FUK everyone else this was awsome, 13/5 stars. I WISH TO BE THE LITTLE GIRL!!!",
+                "time": "19:07:00",
+                "title": "",
+                "username": "Rick"
+            },
+            {
+                "date": "2007-09-22",
+                "text": "omfg rofl >-(",
+                "time": "13:25:00",
+                "title": "LOL!!!!!",
+                "username": "natage"
+            },
+            {
+                "date": "2007-12-18",
+                "text": "best of bests",
+                "time": "18:39:00",
+                "title": "",
+                "username": "ahi"
+            },
+            {
+                "date": "2007-12-19",
+                "text": "Moot vs. Suiseiseki? Instant win!",
+                "time": "14:19:00",
+                "title": "",
+                "username": "Larry Koopa"
+            },
+            {
+                "date": "2007-12-20",
+                "text": "OMFG RAPTOR JESUS",
+                "time": "23:50:00",
+                "title": "",
+                "username": "Poutiska"
+            },
+            {
+                "date": "2008-04-08",
+                "text": "GASTON! NOOOOOOOOO!",
+                "time": "00:22:00",
+                "title": "",
+                "username": "anoon"
+            },
+            {
+                "date": "2008-09-12",
+                "text": "MASTER PIECE",
+                "time": "08:49:00",
+                "title": "",
+                "username": ""
+            },
+            {
+                "date": "2008-10-07",
+                "text": "Fuc/k/ Yeah!",
+                "time": "19:54:00",
+                "title": "",
+                "username": ".."
+            },
+            {
+                "date": "2013-03-05",
+                "text": "LOL FOR SECRET SCENE",
+                "time": "15:35:00",
+                "title": "",
+                "username": "Anon"
+            }
+        ],
+        "date": "2007-09-05",
+        "filename": "4chan_City_Craptastrophe.swf",
+        "id": "f1778",
+        "raters": 393,
         "rating": 4.4,
-        "size": 0.907,
-        "title": "2185",
-        "views": 20150
+        "size": 6.6,
+        "tags": [
+            "Music video",
+            "4chan",
+            "Nightmare City"
+        ],
+        "title": "4chan City Craptastro..",
+        "views": 26852
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2012-01-15",
+                "text": "What did you compress this with? A potato?",
+                "time": "18:11:00",
+                "title": "",
+                "username": "mikeycomputer"
+            },
+            {
+                "date": "2012-01-15",
+                "text": "Attack of the pixels? It's a darn INVASION!",
+                "time": "19:18:00",
+                "title": "",
+                "username": "HamiltonJones"
+            },
+            {
+                "date": "2012-01-15",
+                "text": "Wow music is sou epic !",
+                "time": "21:33:00",
+                "title": "",
+                "username": "gamemaster84"
+            },
+            {
+                "date": "2012-01-15",
+                "text": "actually i think this is what 4chan is all about",
+                "time": "23:35:00",
+                "title": "",
+                "username": "caps"
+            },
+            {
+                "date": "2012-01-17",
+                "text": "You know, you can always resize...",
+                "time": "19:36:00",
+                "title": "",
+                "username": "LordJebe"
+            },
+            {
+                "date": "2012-01-19",
+                "text": "hello to a repost with changed sound.",
+                "time": "21:30:00",
+                "title": "",
+                "username": "Aya"
+            }
+        ],
+        "date": "2012-01-15",
+        "filename": "4chan_dies.swf",
+        "id": "f10119",
+        "raters": 48,
+        "rating": 2.2,
+        "size": 0.739,
+        "tags": [
+            "Humor",
+            "4chan",
+            "attack of the pixels"
+        ],
+        "title": "4chan dies",
+        "views": 5160
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2009-10-19",
+                "text": "Fail on all 6 loops >.< useless",
+                "time": "18:27:00",
+                "title": "",
+                "username": "Jollypop"
+            },
+            {
+                "date": "2009-10-20",
+                "text": "Sucky. Moar backgrounds!",
+                "time": "09:02:00",
+                "title": "",
+                "username": "Damankee"
+            },
+            {
+                "date": "2009-10-20",
+                "text": "I have always wondered.. What's up with these color-twisting flashes?",
+                "time": "14:09:00",
+                "title": "",
+                "username": "Dragzonox"
+            },
+            {
+                "date": "2009-10-20",
+                "text": "I've been wondering too, why are they all called epilepsy?",
+                "time": "16:44:00",
+                "title": "",
+                "username": ":("
+            },
+            {
+                "date": "2009-10-21",
+                "text": "Because people with epilepsy, go into shock when they see flashing lights..",
+                "time": "03:02:00",
+                "title": "#4",
+                "username": "Dragzonox"
+            },
+            {
+                "date": "2010-03-23",
+                "text": "Loona - Mamboleo is cool song!!!",
+                "time": "07:36:00",
+                "title": ":)",
+                "username": "220V"
+            }
+        ],
+        "date": "2009-10-19",
+        "filename": "4chan_Epilepsy_Megaloop.swf",
+        "id": "f4784",
+        "raters": 88,
+        "rating": 2.3,
+        "size": 0.579,
+        "tags": [
+            "Loop",
+            "epilepsy",
+            "4chan"
+        ],
+        "title": "4chan Epilepsy Megalo..",
+        "views": 10192
+    },
+    {
+        "comment_amt": 12,
+        "comments": [
+            {
+                "date": "2007-11-12",
+                "text": "so much ( ... )ing win!",
+                "time": "21:48:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2007-11-12",
+                "text": "Dying to know the song name. Somebody please tell me.",
+                "time": "22:00:00",
+                "title": "",
+                "username": "Tessa"
+            },
+            {
+                "date": "2007-11-12",
+                "text": "dreamer kree - castles in the sky",
+                "time": "23:12:00",
+                "title": "",
+                "username": "\u00d0\u00b0\u00d0\u00b1\u00d1\u2039\u00d1\u20ac\u00d0\u00b2& ETH;\u00b0\u00d0\u00bb\u00d0\u00b3 \u00d0\u00b7\u00d0\u00b0\u00d0\u00bc\u00d0\u00ba\u00d0\u00be\u00d0 \u00bc\u00d0\u00bf\u00d0\u00be\u00d0\u00bc\u00d0\u00be&Ntil de;\u20ac\u00d0\u00b4\u00d0\u00b5"
+            },
+            {
+                "date": "2007-11-13",
+                "text": "not much in the way of flash here",
+                "time": "02:55:00",
+                "title": "",
+                "username": "B"
+            },
+            {
+                "date": "2007-11-13",
+                "text": "In another flash (not on Dagobah) is the same song only slower. I wish I could show you, but I don't know if i'm allowed to put a link to that here. Can I put a link here?",
+                "time": "12:02:00",
+                "title": "",
+                "username": "Tessa"
+            },
+            {
+                "date": "2007-11-13",
+                "text": ">>#5 You are allowed to do that, or better still - just upload it here and I'll update it into the index (I can skip the waiting).",
+                "time": "14:00:00",
+                "title": "",
+                "username": "mRkukov"
+            },
+            {
+                "date": "2007-11-13",
+                "text": "That website doesn't have a save function. http://dagobah.biz/flash/FAIL_seal.swf is the address.",
+                "time": "18:21:00",
+                "title": "",
+                "username": "Tessa"
+            },
+            {
+                "date": "2007-11-13",
+                "text": "That was already listed in my upcoming page.",
+                "time": "19:13:00",
+                "title": "",
+                "username": "mRkukov"
+            },
+            {
+                "date": "2007-11-13",
+                "text": "Perfect Timing.",
+                "time": "19:29:00",
+                "title": "",
+                "username": "Tessa"
+            },
+            {
+                "date": "2007-11-16",
+                "text": "http://www.soundclick.com/player/single_player.cfm?songid=3921805 &q=hi (got \"HERO\" on captcha image, lol)",
+                "time": "19:23:00",
+                "title": "",
+                "username": "Krfk"
+            },
+            {
+                "date": "2007-11-17",
+                "text": "Looks like they sped up the song a bit. It's going at 110% of the original speed.",
+                "time": "19:16:00",
+                "title": "",
+                "username": "Jdragon"
+            },
+            {
+                "date": "2008-06-13",
+                "text": "Whats up in this ( ... )ing house",
+                "time": "01:37:00",
+                "title": "",
+                "username": "Anonymous"
+            }
+        ],
+        "date": "2007-11-12",
+        "filename": "4chan_FAIL_Seal.swf",
+        "id": "f2062",
+        "raters": 146,
+        "rating": 3.7,
+        "size": 0.19,
+        "tags": [
+            "loop",
+            "4chan"
+        ],
+        "title": "4chan FAIL Seal",
+        "views": 19415
+    },
+    {
+        "comment_amt": 3,
+        "comments": [
+            {
+                "date": "2015-04-11",
+                "text": "I believe this is a repost.",
+                "time": "21:29:00",
+                "title": "",
+                "username": "asdfcopter"
+            },
+            {
+                "date": "2015-04-11",
+                "text": "#1 Depends on how you define reposts, since there is a bajilion of different versions with (somewhat) different bag content.",
+                "time": "23:41:00",
+                "title": "",
+                "username": "Ludolph"
+            },
+            {
+                "date": "2015-04-12",
+                "text": "Differences from 4chan_flash_in_a_bag_v3-119.swf: this one ends after trip_hq.swf, thus having ~16 fewer maymays.",
+                "time": "04:30:00",
+                "title": "",
+                "username": "Anonymous"
+            }
+        ],
+        "date": "2015-04-11",
+        "filename": "4chan_flash_in_a_bag.swf",
+        "id": "f13924",
+        "raters": 34,
+        "rating": 4.4,
+        "size": 9.3,
+        "tags": [
+            "Humor",
+            "4chan",
+            "NSFW"
+        ],
+        "title": "4chan flash in a bag",
+        "views": 2284
+    },
+    {
+        "comment_amt": 11,
+        "comments": [
+            {
+                "date": "2014-10-26",
+                "text": "Why is this so accurate? Also +5 for adding sono flower",
+                "time": "20:15:00",
+                "title": "",
+                "username": "Donzz"
+            },
+            {
+                "date": "2014-10-27",
+                "text": "You know that you have no life when you can recognize all these flashes. I think I might need a rehab.",
+                "time": "00:03:00",
+                "title": "",
+                "username": "Ludolph"
+            },
+            {
+                "date": "2014-10-27",
+                "text": "nsfw tag needed probably yeah",
+                "time": "05:15:00",
+                "title": "",
+                "username": "anon"
+            },
+            {
+                "date": "2014-10-27",
+                "text": "RIP 4chan.",
+                "time": "11:54:00",
+                "title": "",
+                "username": "asdfcopter"
+            },
+            {
+                "date": "2014-10-27",
+                "text": "name of movie??",
+                "time": "20:42:00",
+                "title": "",
+                "username": "bob hope"
+            },
+            {
+                "date": "2014-10-28",
+                "text": "#5 Falling Down",
+                "time": "22:06:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2014-10-29",
+                "text": "what was the butt one? didnt know what it",
+                "time": "16:23:00",
+                "title": "",
+                "username": "Djingle"
+            },
+            {
+                "date": "2014-10-30",
+                "text": "#7 swfchan.com/32/155544/?slingshot.swf (NSFW website. Linked flash is also NSFW)",
+                "time": "00:10:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2014-10-30",
+                "text": "#8 oooh I saw this one in its original site, never on /f/ ty",
+                "time": "03:04:00",
+                "title": "",
+                "username": "Djingle"
+            },
+            {
+                "date": "2014-10-30",
+                "text": "which one is about bane?",
+                "time": "16:19:00",
+                "title": "",
+                "username": ""
+            },
+            {
+                "date": "2014-11-13",
+                "text": "I have to watch the toll booth flash right now!",
+                "time": "22:45:00",
+                "title": "",
+                "username": "Guy"
+            }
+        ],
+        "date": "2014-10-26",
+        "filename": "4chan_flash_in_a_bag_v3-119.swf",
+        "id": "f13413",
+        "raters": 116,
+        "rating": 4.6,
+        "size": 9.4,
+        "tags": [
+            "Humor",
+            "4chan"
+        ],
+        "title": "4chan flash in a bag ..",
+        "views": 3870
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2012-11-27",
+                "text": "what's this remix exactly called again? i.e. source plz",
+                "time": "19:39:00",
+                "title": "",
+                "username": "sinnfreichan"
+            },
+            {
+                "date": "2012-11-27",
+                "text": "Lucky Star- Redalice Remix",
+                "time": "20:38:00",
+                "title": "",
+                "username": "Loli-chan"
+            },
+            {
+                "date": "2012-11-27",
+                "text": "Love it.. :)",
+                "time": "22:49:00",
+                "title": "",
+                "username": "X"
+            },
+            {
+                "date": "2012-11-28",
+                "text": "This has half the pixels since last decade I saw this.",
+                "time": "18:35:00",
+                "title": "",
+                "username": "sfrdsyftruy56h"
+            },
+            {
+                "date": "2012-11-29",
+                "text": "Game at the end?",
+                "time": "00:21:00",
+                "title": "",
+                "username": "lametomato"
+            },
+            {
+                "date": "2012-11-30",
+                "text": "#5 Yes.",
+                "time": "01:50:00",
+                "title": "",
+                "username": "Loli-chan"
+            }
+        ],
+        "date": "2012-11-27",
+        "filename": "4chan_ftw.swf",
+        "id": "f11450",
+        "raters": 72,
+        "rating": 3.8,
+        "size": 9.7,
+        "tags": [
+            "Humor",
+            "4chan"
+        ],
+        "title": "4chan ftw",
+        "views": 5418,
+        "youtube_id": "Q0rxm1Kuzok"
+    },
+    {
+        "comment_amt": 5,
+        "comments": [
+            {
+                "date": "2013-12-09",
+                "text": "This is pretty shit.",
+                "time": "20:16:00",
+                "title": "",
+                "username": "-"
+            },
+            {
+                "date": "2013-12-09",
+                "text": "as evidenced here, the only thing japanese men can achieve in life is honourable sudoku",
+                "time": "21:48:00",
+                "title": "",
+                "username": "J"
+            },
+            {
+                "date": "2013-12-12",
+                "text": "4chan doesn anything against newfags in 2013? THAT'S a nice joke.",
+                "time": "23:14:00",
+                "title": "",
+                "username": "What"
+            },
+            {
+                "date": "2013-12-21",
+                "text": "I thought that 4chan endorsed newfags the past few years.",
+                "time": "23:18:00",
+                "title": "",
+                "username": "skuzz0r"
+            },
+            {
+                "date": "2013-12-30",
+                "text": "And another shit thread was made",
+                "time": "09:51:00",
+                "title": "",
+                "username": "hugzoo"
+            }
+        ],
+        "date": "2013-12-09",
+        "filename": "4chan_in_a_japanese_war_Scene_1.swf",
+        "id": "f12704",
+        "raters": 29,
+        "rating": 2.0,
+        "size": 5.7,
+        "tags": [
+            "Humor",
+            "4chan"
+        ],
+        "title": "4chan in a japanese w..",
+        "views": 2468
+    },
+    {
+        "comment_amt": 11,
+        "comments": [
+            {
+                "date": "2011-08-29",
+                "text": "90% of the people who watched this, went to 4chan to check if it was real.",
+                "time": "18:26:00",
+                "title": "",
+                "username": "kpaenen"
+            },
+            {
+                "date": "2011-08-29",
+                "text": "GO BACK TO STALKER, STALKER! YOU ARE WORST EVER AND REMIND ME TO KILL THE DUTYERS!",
+                "time": "18:42:00",
+                "title": "",
+                "username": "OmegaForte"
+            },
+            {
+                "date": "2011-08-29",
+                "text": "Well, I did...",
+                "time": "23:07:00",
+                "title": "",
+                "username": "Harpo"
+            },
+            {
+                "date": "2011-08-29",
+                "text": "I was never on 4chan xD",
+                "time": "23:14:00",
+                "title": "",
+                "username": "Kato-San"
+            },
+            {
+                "date": "2011-08-30",
+                "text": "4chan is full of fagz",
+                "time": "00:32:00",
+                "title": "",
+                "username": "not anotherfag"
+            },
+            {
+                "date": "2011-08-30",
+                "text": "/b/ was never that good",
+                "time": "17:18:00",
+                "title": "",
+                "username": "We are Anonymous"
+            },
+            {
+                "date": "2011-08-31",
+                "text": "And nothing of value was lost.",
+                "time": "21:46:00",
+                "title": "",
+                "username": "asdfcopter"
+            },
+            {
+                "date": "2011-09-03",
+                "text": "Stolen from: http://dagobah.net/flash/Pants_Man_Is_No_More.swf",
+                "time": "17:21:00",
+                "title": "",
+                "username": "Kaasrol"
+            },
+            {
+                "date": "2011-09-07",
+                "text": "\"4chan is no more\" Would be too awesome to be true.",
+                "time": "14:02:00",
+                "title": "",
+                "username": "Viet Kong"
+            },
+            {
+                "date": "2011-09-11",
+                "text": "could someone tell me the song? i can't quit understand the lyrics to google it",
+                "time": "15:22:00",
+                "title": "",
+                "username": "Mephisto"
+            },
+            {
+                "date": "2011-09-17",
+                "text": "found it! victory pizza here i come! http://www.youtube.com/watch?v=WDCNlqMgnvo",
+                "time": "17:27:00",
+                "title": "",
+                "username": "Mephisto"
+            }
+        ],
+        "date": "2011-08-29",
+        "filename": "4chan_isnomore.swf",
+        "id": "f9441",
+        "raters": 38,
+        "rating": 2.7,
+        "size": 0.547,
+        "tags": [
+            "Loop"
+        ],
+        "title": "4chan isnomore",
+        "views": 5820
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2009-07-20",
+                "text": "The second stage of the boss, the desu desu girl, is hard as hell (souseiseki? or whatever her name is) Did only try once though. It wasnt that fun.",
+                "time": "00:27:00",
+                "title": "",
+                "username": "anonymous"
+            },
+            {
+                "date": "2009-07-20",
+                "text": "song?!?!",
+                "time": "02:17:00",
+                "title": "",
+                "username": "dfghj"
+            },
+            {
+                "date": "2009-07-20",
+                "text": "Is there a way to not get raped by Longcat if you lose the spreadshot?",
+                "time": "02:56:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2009-07-20",
+                "text": "As for beating Desu, stay right next to the border at the bottom of the screen, constantly move left or right to avoid the golden banhammers, and warp to the top (move down) when Desu gets too close. She's the final boss.",
+                "time": "03:05:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2009-07-20",
+                "text": "im a failure ;_;",
+                "time": "06:32:00",
+                "title": "",
+                "username": "mcd1992"
+            },
+            {
+                "date": "2009-07-20",
+                "text": "x and c rotate the ship",
+                "time": "17:51:00",
+                "title": "",
+                "username": "Damankee"
+            }
+        ],
+        "date": "2009-07-19",
+        "filename": "4chan_Level.swf",
+        "id": "f4324",
+        "raters": 92,
+        "rating": 2.8,
+        "size": 5.9,
+        "tags": [
+            "Game",
+            "4chan"
+        ],
+        "title": "4chan Level",
+        "views": 10291
+    },
+    {
+        "comment_amt": 3,
+        "comments": [
+            {
+                "date": "2010-03-09",
+                "text": "what's that sauce on that opening tune that I should definitely know. I've heard of it I just can't remember what it's from",
+                "time": "20:36:00",
+                "title": "",
+                "username": "domino"
+            },
+            {
+                "date": "2010-03-09",
+                "text": "it's from killbill http://www.youtube.com/watch?v=ccWosRY3fhI",
+                "time": "23:32:00",
+                "title": "killbill",
+                "username": "mangaman1989"
+            },
+            {
+                "date": "2010-03-10",
+                "text": "that's right, thanks",
+                "time": "00:36:00",
+                "title": "",
+                "username": "domino"
+            }
+        ],
+        "date": "2010-03-09",
+        "filename": "4chan_otakon2006-low.swf",
+        "id": "f5718",
+        "raters": 47,
+        "rating": 2.9,
+        "size": 1.9,
+        "tags": [
+            "Humor",
+            "epilepsy",
+            "4chan"
+        ],
+        "title": "4chan otakon2006-low",
+        "views": 7691
+    },
+    {
+        "comment_amt": 15,
+        "comments": [
+            {
+                "date": "2007-09-22",
+                "text": "epic flash, and ( ... ) duplicate content blocker",
+                "time": "21:53:00",
+                "title": "",
+                "username": "lo.ol"
+            },
+            {
+                "date": "2007-09-22",
+                "text": ">>#1 Duplicate blocker? For comments?",
+                "time": "22:01:00",
+                "title": "",
+                "username": "mRkukov"
+            },
+            {
+                "date": "2007-09-22",
+                "text": "That was so lol. Japanese opening > English opening. http://www.pokemon-originals.tk/ Pokemon on japanese of win.",
+                "time": "23:35:00",
+                "title": "Lol",
+                "username": "Nisseman"
+            },
+            {
+                "date": "2007-09-23",
+                "text": "EPIC COMBO WIN",
+                "time": "00:57:00",
+                "title": "",
+                "username": "x3"
+            },
+            {
+                "date": "2007-09-23",
+                "text": ">>#2 yes, I was trying to say only the word \"epic\" , but I couldn't due it saying something about dublicate content.",
+                "time": "10:12:00",
+                "title": "",
+                "username": "lo.ol"
+            },
+            {
+                "date": "2007-09-24",
+                "text": "i was at that post. remember it so good",
+                "time": "23:20:00",
+                "title": "Good times",
+                "username": "sos0s@h"
+            },
+            {
+                "date": "2007-12-16",
+                "text": "hey, love ur flash video, can i have the permission to record this video and post it on youtube and credit you and who ever help u with this video? give me a call :D",
+                "time": "03:22:00",
+                "title": "Permission?",
+                "username": "Rogelio (rogeliovVela11)"
+            },
+            {
+                "date": "2008-10-15",
+                "text": "why youtube? more cancer?",
+                "time": "00:55:00",
+                "title": "#7",
+                "username": "asd"
+            },
+            {
+                "date": "2008-10-20",
+                "text": "+5.",
+                "time": "08:37:00",
+                "title": "",
+                "username": "Menlo"
+            },
+            {
+                "date": "2008-11-09",
+                "text": "WHAT HAS SCIENCE DOOOOOOOOOOONE?!??!?!?",
+                "time": "07:55:00",
+                "title": "",
+                "username": "006"
+            },
+            {
+                "date": "2008-11-09",
+                "text": "Rogelio doesnt want to reproduce it on JewTube and cite whoever made this, he wants to steal it and claim it as his own, but he doesnt know how.",
+                "time": "16:40:00",
+                "title": "",
+                "username": "pizzapieisalie"
+            },
+            {
+                "date": "2010-02-14",
+                "text": "Nice :coeur:",
+                "time": "16:56:00",
+                "title": "",
+                "username": "djokemon"
+            },
+            {
+                "date": "2010-11-03",
+                "text": "PREPARE FOR TROUBLE",
+                "time": "11:54:00",
+                "title": "",
+                "username": "Jesse"
+            },
+            {
+                "date": "2010-11-12",
+                "text": "AND MAKE IT DOUBLE",
+                "time": "11:23:00",
+                "title": "",
+                "username": "James"
+            },
+            {
+                "date": "2011-01-08",
+                "text": "Just 1 word replied 3 times: *DUH DUH DUH*",
+                "time": "18:39:00",
+                "title": "",
+                "username": "ZMarchewa"
+            }
+        ],
+        "date": "2007-09-22",
+        "filename": "4chan_pokemon.swf",
+        "id": "f1850",
+        "raters": 440,
+        "rating": 4.4,
+        "size": 1.3,
+        "tags": [
+            "Music video",
+            "4chan song"
+        ],
+        "title": "4chan pokemon",
+        "views": 62653
+    },
+    {
+        "comment_amt": 6,
+        "comments": [
+            {
+                "date": "2012-01-19",
+                "text": "Again? You mean Forever :.(",
+                "time": "17:28:00",
+                "title": "",
+                "username": "hm.."
+            },
+            {
+                "date": "2012-01-19",
+                "text": "I think we can all agree this flash is a complete waste of time, bandwidth and storage space.",
+                "time": "18:44:00",
+                "title": "",
+                "username": "Nonymous"
+            },
+            {
+                "date": "2012-01-20",
+                "text": "Regardless, music sauce?",
+                "time": "02:06:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2012-01-20",
+                "text": "Cant tell if commenters are butthurt or depressed.",
+                "time": "09:15:00",
+                "title": "",
+                "username": "Anonymous"
+            },
+            {
+                "date": "2012-01-20",
+                "text": "http://dagobah.net/flash/FAIL_seal.swf",
+                "time": "09:22:00",
+                "title": "",
+                "username": "SaemperSun"
+            },
+            {
+                "date": "2012-01-22",
+                "text": ">that feel when no gf",
+                "time": "15:06:00",
+                "title": "",
+                "username": "faulk"
+            }
+        ],
+        "date": "2012-01-19",
+        "filename": "4chan_Seal_of_Alone.swf",
+        "id": "f10137",
+        "raters": 50,
+        "rating": 3.0,
+        "size": 0.289,
+        "tags": [
+            "Loop",
+            "epilepsy"
+        ],
+        "title": "4chan Seal of Alone",
+        "views": 7010
+    },
+    {
+        "comment_amt": 27,
+        "comments": [
+            {
+                "date": "2007-05-10",
+                "text": "Parody of Naruto Shippuuden opening theme. The music is also from it.",
+                "time": "00:42:00",
+                "title": "",
+                "username": "Player"
+            },
+            {
+                "date": "2007-05-10",
+                "text": "Haha, pretty good! But it wouldn't hurt if it were a little longer",
+                "time": "08:09:00",
+                "title": "",
+                "username": "Ilzo"
+            },
+            {
+                "date": "2007-05-10",
+                "text": "Desu~ =D",
+                "time": "15:06:00",
+                "title": "",
+                "username": "ShadowMan"
+            },
+            {
+                "date": "2007-05-10",
+                "text": "I caem.",
+                "time": "15:57:00",
+                "title": "",
+                "username": "a"
+            },
+            {
+                "date": "2007-05-10",
+                "text": "it sucks. it's horrible>-( I love Naruto, I LOVE NARUTO SHIPPUUDEN and this remake is a bad imitation of the real opening, which is an example of hi-quality animation. i don't mind if i look like a ( ... )ing, kindless girl.",
+                "time": "17:34:00",
+                "title": "",
+                "username": "Creamy"
+            },
+            {
+                "date": "2007-05-10",
+                "text": "Apparently the previous poster didn't get it. The characters in the flash are Moot and WT Snacks of 4chan fame, and Yotsuba from an anime by the same name. Plus one other guy. It's intended as a 4chan inside joke, clearly, and besides being cool, it lets us laugh at those who don't get it.",
+                "time": "22:08:00",
+                "title": "No get it? You lurk moar.",
+                "username": "Guruhoro"
+            },
+            {
+                "date": "2007-05-11",
+                "text": "I LOLD!!!!!",
+                "time": "19:33:00",
+                "title": "",
+                "username": "BigMike"
+            },
+            {
+                "date": "2007-05-12",
+                "text": "I don't understand how you can put Naruto along with hi-quality animation in the same post. Those two things don't belong in the same universe.",
+                "time": "06:05:00",
+                "title": "Re: Creamy",
+                "username": "John Holmes"
+            },
+            {
+                "date": "2007-05-13",
+                "text": "/r/ that all narutards be banned from dagobah, also",
+                "time": "02:38:00",
+                "title": "",
+                "username": "dakke"
+            },
+            {
+                "date": "2007-05-13",
+                "text": "2nd",
+                "time": "06:27:00",
+                "title": "",
+                "username": "Bizzaroo"
+            },
+            {
+                "date": "2007-05-13",
+                "text": "Agreed. Naruto is for underage and women. Since you need to be 15+ to view dagobah and there are no women on the Internet, all Narutards must be banned.",
+                "time": "08:53:00",
+                "title": "",
+                "username": "Anonmouse"
+            },
+            {
+                "date": "2007-05-14",
+                "text": "you can say this now, but you will change your mind when i will become a great anime producer and a mangaka known all over the world. i would know which kind of anime you watch. i'm not saying \"the programs i watch are better than yours\", i'm only saying \"this flash sucks\". it's the truth. you can say what you want. i say what i want. and don't generalise saying \"Agreed. Naruto is for underage and women. Since you need to be 15+ to view dagobah and there are no women on the Internet, all Narutards must be banned.\" 'cause i know many people that read and watch Naruto and they're all overage. and everybody who says that women can't read or surf in internet, ( ... ) YOU!",
+                "time": "17:54:00",
+                "title": "",
+                "username": "Creamy"
+            },
+            {
+                "date": "2007-05-14",
+                "text": "\"and everybody who says that women can't read or surf in internet, ( ... ) YOU!\" No you! Well.. That's more like Anonymous talking (from 4chan)... There are no women on the Internet.",
+                "time": "19:16:00",
+                "title": "",
+                "username": "mrkukov"
+            },
+            {
+                "date": "2007-05-14",
+                "text": "I hope one day dagobah would be like spamchan.. oh 4chan* :) these smiles sucks btw mrk, fix them away :p",
+                "time": "22:37:00",
+                "title": "",
+                "username": "moe"
+            },
+            {
+                "date": "2007-05-15",
+                "text": "uff... talking to this kind of suckers is meaningless...",
+                "time": "16:42:00",
+                "title": "",
+                "username": "Creamy"
+            },
+            {
+                "date": "2007-05-15",
+                "text": "I dont ( ... )ing care if its based off of that god awful show. Its a good flash. ( ... )ing faptastic. FAP FAP FAP! Seriously though, Ban all narutards.",
+                "time": "23:58:00",
+                "title": "",
+                "username": "Im not telling my name to a machine"
+            },
+            {
+                "date": "2007-05-23",
+                "text": "All narutards should lurk moar. Or stop existing. Or both.",
+                "time": "18:25:00",
+                "title": "",
+                "username": "Internet - Serious Business"
+            },
+            {
+                "date": "2007-05-24",
+                "text": "No women on the internet? I DISAGREE! Anyway, this is a really cool music video.",
+                "time": "19:12:00",
+                "title": "",
+                "username": "Tessa"
+            },
+            {
+                "date": "2007-05-26",
+                "text": "^ PICS OR IT DIDN'T HAPPEN tits or gtfo",
+                "time": "11:32:00",
+                "title": "",
+                "username": "anonymous"
+            },
+            {
+                "date": "2007-06-24",
+                "text": "It's a good one. Ever1 should get some information about 4chan, it is kind of a part of being civilized. Or uncivilized, depending on ur point of view. Anyway, a great flash and a nice inside joke. Keep up the good work. /r/ moar of this.",
+                "time": "21:15:00",
+                "title": "",
+                "username": "Koskila"
+            },
+            {
+                "date": "2007-07-16",
+                "text": "Nice one, and narutards should stop complaining ._.",
+                "time": "00:52:00",
+                "title": "",
+                "username": "Janra"
+            },
+            {
+                "date": "2007-07-17",
+                "text": "@Creamy lol, your names creamy, did you get creamed? sauce. Anyway 4chan rules.",
+                "time": "05:25:00",
+                "title": "",
+                "username": "anonymous"
+            },
+            {
+                "date": "2007-10-19",
+                "text": "Desu,Desu,Desu .... I like this Button.. The more i touch it,the more i like it .... 4chan is.. hmmm.. Let's say it simple.. IT ROCKS.. And Naruto?? NO WAY... Naruto is xxxxxxxxx (ugly words =D )",
+                "time": "12:22:00",
+                "title": "Desu & 4Chan & Naruto",
+                "username": "SeriouslyDamaged"
+            },
+            {
+                "date": "2008-04-21",
+                "text": "naruto is dragonballz with emo flashbacks instead of powering up. Also it's kinda being a hypocrite dissing something but then tracing over it guys lawls",
+                "time": "05:35:00",
+                "title": "",
+                "username": "anon"
+            },
+            {
+                "date": "2010-01-30",
+                "text": "Troll Detected",
+                "time": "05:20:00",
+                "title": "",
+                "username": "anonymous"
+            },
+            {
+                "date": "2011-05-12",
+                "text": "Seems like dagobah is dead again. Well, all good things come to and end. So well z0ne sama.",
+                "time": "09:41:00",
+                "title": "",
+                "username": "/b/tard"
+            },
+            {
+                "date": "2011-05-12",
+                "text": "#26 ???",
+                "time": "09:46:00",
+                "title": "",
+                "username": "mRkukov"
+            }
+        ],
+        "date": "2007-05-09",
+        "filename": "4chan_shippuuden.swf",
+        "id": "f1309",
+        "raters": 209,
+        "rating": 4.1,
+        "size": 1.2,
+        "tags": [
+            "Music video",
+            "4chan"
+        ],
+        "title": "4chan shippuuden",
+        "views": 21860
+    },
+    {
+        "comment_amt": 0,
+        "comments": [],
+        "date": "2007-03-03",
+        "filename": "4chan_SOTN.swf",
+        "id": "f989",
+        "raters": 125,
+        "rating": 1.8,
+        "size": 0.238,
+        "tags": [
+            "humor",
+            "4chan"
+        ],
+        "title": "4chan SOTN",
+        "views": 15309
+    },
+    {
+        "comment_amt": 10,
+        "comments": [
+            {
+                "date": "2008-02-05",
+                "text": "http://dagobah.biz/flash/still_alive.swf And this one are the same, aren't they?",
+                "time": "19:24:00",
+                "title": "",
+                "username": "Tessa"
+            },
+            {
+                "date": "2008-02-05",
+                "text": "repost of repost of repost",
+                "time": "19:46:00",
+                "title": "",
+                "username": "Companioncubeinmyheart"
+            },
+            {
+                "date": "2008-02-06",
+                "text": "Shitty ( ... )ing song, orange box was a joke",
+                "time": "16:44:00",
+                "title": "",
+                "username": ":)"
+            },
+            {
+                "date": "2008-02-07",
+                "text": "The orange box was kickass",
+                "time": "13:47:00",
+                "title": "",
+                "username": "Malsomalso"
+            },
+            {
+                "date": "2008-02-09",
+                "text": "what is this song anyway?",
+                "time": "00:40:00",
+                "title": "",
+                "username": "uuh"
+            },
+            {
+                "date": "2008-02-19",
+                "text": "Eventually this pathetic piece of shit will be gone, its only a matter of time. Along with the small handful of idiots that want to keep it alive.",
+                "time": "02:05:00",
+                "title": "",
+                "username": "4chanKiller"
+            },
+            {
+                "date": "2008-02-24",
+                "text": "( ... ) yes you are my favorite repost ever",
+                "time": "20:54:00",
+                "title": "",
+                "username": "nlnl"
+            },
+            {
+                "date": "2008-07-27",
+                "text": "Song is genious but flash is fail for same person repost.",
+                "time": "22:47:00",
+                "title": "",
+                "username": "unf"
+            },
+            {
+                "date": "2010-12-07",
+                "text": "i think that this should be nsfw caus u cn se pusseh",
+                "time": "15:52:00",
+                "title": "",
+                "username": "sup"
+            },
+            {
+                "date": "2010-12-29",
+                "text": ">>43369907 >http://www.youtube.com/watch?v=U1PPE0dEgd I >What really happened on 9/11 - The Return >That old 'Fresh Prince-era Will Smith Dumb Dancing down the World Trade Center' .gif set to Yakkety Sax I fukken lol'd Captcha: STOW",
+                "time": "20:55:00",
+                "title": "",
+                "username": "Please enter your name."
+            }
+        ],
+        "date": "2008-02-05",
+        "filename": "4chan_stillalive.swf",
+        "id": "f2357",
+        "raters": 134,
+        "rating": 3.8,
+        "size": 0.996,
+        "tags": [
+            "Music video",
+            "4chan"
+        ],
+        "title": "4chan stillalive",
+        "views": 46041
+    },
+    {
+        "comment_amt": 9,
+        "comments": [
+            {
+                "date": "2008-03-18",
+                "text": "What's up with the size and quality again? It sucks. If flash is going to be this huge, it better be top quality and awesome, so why this isn't?",
+                "time": "19:35:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2008-03-18",
+                "text": "This is made of sh!t and fail.",
+                "time": "23:33:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2008-03-19",
+                "text": "Awesome! :P",
+                "time": "05:36:00",
+                "title": "",
+                "username": "Arska.-"
+            },
+            {
+                "date": "2008-03-19",
+                "text": "Waste of Space.",
+                "time": "19:53:00",
+                "title": "",
+                "username": "Anon"
+            },
+            {
+                "date": "2008-03-21",
+                "text": "...and on the third day, Moot took a dump on his server, and called it 4chan. And he saw that it was made of shit and failure. \"Here be btards and creepy ( ... )s. I'm off to Mootxico!\"",
+                "time": "09:58:00",
+                "title": "",
+                "username": "Nameynameson"
+            },
+            {
+                "date": "2008-03-23",
+                "text": "I like",
+                "time": "14:34:00",
+                "title": "",
+                "username": "some_longcat"
+            },
+            {
+                "date": "2008-05-07",
+                "text": "utter crap. not worth watching!",
+                "time": "22:14:00",
+                "title": "",
+                "username": "asd"
+            },
+            {
+                "date": "2009-11-07",
+                "text": "this is complete PEN15",
+                "time": "09:50:00",
+                "title": "peeeeeeeeeeennnnnnnnnnnnnnniiiiiiiiiiiiiiiiiiiissssssssssssssssss sssssss",
+                "username": "CHEESEY WISKARS"
+            },
+            {
+                "date": "2010-08-07",
+                "text": "song? :D",
+                "time": "03:39:00",
+                "title": "",
+                "username": "jonasdk"
+            }
+        ],
+        "date": "2008-03-18",
+        "filename": "4chan_the_Movie_2.swf",
+        "id": "f2492",
+        "raters": 100,
+        "rating": 2.8,
+        "size": 9.7,
+        "tags": [
+            "Music video",
+            "4chan",
+            "The Mongle"
+        ],
+        "title": "4chan the Movie 2",
+        "views": 12577
+    },
+    {
+        "comment_amt": 2,
+        "comments": [
+            {
+                "date": "2010-04-10",
+                "text": "Anonymous - Internet Hero",
+                "time": "20:05:00",
+                "title": "",
+                "username": "ShadowMan"
+            },
+            {
+                "date": "2010-04-16",
+                "text": "Phooooooarrrr Chaaaaannnnn",
+                "time": "03:24:00",
+                "title": "",
+                "username": "&nbsp;"
+            }
+        ],
+        "date": "2010-04-10",
+        "filename": "4chan_Trinity.swf",
+        "id": "f6019",
+        "raters": 74,
+        "rating": 3.7,
+        "size": 0.485,
+        "tags": [
+            "Loop",
+            "4chan"
+        ],
+        "title": "4chan Trinity",
+        "views": 8422
+    },
+    {
+        "comment_amt": 8,
+        "comments": [
+            {
+                "date": "2015-05-22",
+                "text": "your average /b/ shitposter, summer is coming.",
+                "time": "20:19:00",
+                "title": "",
+                "username": "babe"
+            },
+            {
+                "date": "2015-05-22",
+                "text": "yea dog is meme",
+                "time": "21:00:00",
+                "title": "",
+                "username": "no puffing"
+            },
+            {
+                "date": "2015-05-22",
+                "text": "It only applies to raids goddamnit",
+                "time": "23:33:00",
+                "title": "",
+                "username": "LordJebe"
+            },
+            {
+                "date": "2015-05-23",
+                "text": "Cringe thread.",
+                "time": "03:36:00",
+                "title": "",
+                "username": "owowo"
+            },
+            {
+                "date": "2015-05-23",
+                "text": "Retard fight!",
+                "time": "14:36:00",
+                "title": "",
+                "username": "asdfcopter"
+            },
+            {
+                "date": "2015-05-24",
+                "text": "I died a little inside",
+                "time": "00:16:00",
+                "title": "",
+                "username": "SilverVine"
+            },
+            {
+                "date": "2015-05-24",
+                "text": "at least the underageb& /b/tard isn't a macfag",
+                "time": "10:02:00",
+                "title": "",
+                "username": "Name"
+            },
+            {
+                "date": "2015-05-31",
+                "text": "they are both retarded",
+                "time": "12:17:00",
+                "title": "",
+                "username": "sajobi"
+            }
+        ],
+        "date": "2015-05-22",
+        "filename": "4chan_vs_reddit.swf",
+        "id": "f14075",
+        "raters": 26,
+        "rating": 3.7,
+        "size": 9.8,
+        "tags": [
+            "Misc",
+            "rule_no_1"
+        ],
+        "title": "4chan vs reddit",
+        "views": 1761
     }
 ]

@@ -98,8 +98,8 @@ def gallery2object(html_doc):
                     size = float(re.sub(' [Kk][Bb]', '', raw_size)) / 1000.0
                 elif (re.search(' [Mb][Bb]', raw_size)): # megabytes: just strip MB
                     size = float(re.sub(' [Mm][Bb]', '', raw_size))
-                elif (re.search(' [Bb]', raw_size)):     # bytes: not sure if we will ever encounter it
-                    size = float(re.sub(' [Kk][Bb]', '', raw_size)) / 1000.0 / 1000.0
+                elif (re.search(' [Bb]', raw_size)):     # bytes: convert to MB
+                    size = float(re.sub(' [Bb]', '', raw_size)) / 1000.0 / 1000.0
                 else: # no known size: perhaps for youtube videos
                     size = 0
                 
@@ -112,8 +112,10 @@ def gallery2object(html_doc):
                 date = datetime(date_raw[2], date_raw[1], date_raw[0])
                 item['date'] = str(date.date())
                 
-            # placeholder for comments
+            # placeholder for comments and tags
             item['comments'] = []
+            item['tags'] = []
+            item['youtube_id'] = ""
                 
         flashlist.append(item)
                 

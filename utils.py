@@ -3,6 +3,7 @@
 import os
 import requests
 import json
+import pickle
 
 def mkdirs(path):
 	"""Make directory, if it doesn't exist."""
