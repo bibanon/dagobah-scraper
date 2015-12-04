@@ -18,14 +18,16 @@ Then, run the following scripts, one by one, to dump Dagobah's entire collection
 
 		python 1-gallery-scraper.py 1 262
 
-2. The next step is to grab all comments and tags for each item. This can take a few hours: if you lose connection, continue where you left off: change the start page to the last one you've edited.
+2. The next step is to grab all comments and tags for each item. This can take a few hours: if you lose connection, you can continue where you left off: change the start page to the last one you've edited.
 
 		python 2-comment-scraper.py 1 262
 
-3. Finally, we need to download the flash files themselves. This script will obtain the filenames and scrape the flash files. If you lose connection, continue where you left off: change the start page to the last one you've edited.
+3. We can generate a list of files to scrape, and figure out the total filesize of the page range chosen. The list can then be used by wget or grab-site.
 
-        python 3-download-items.py 1 262
+        python 3-list-files.py 1 262
 
-Everything is stored under `dagobah`, from the JSON gallery page dumps in `gallery/` to the `images/` folder. All images are sorted into folders named by their first two characters (to reduce strain on file explorers).
+4. Optionally, you can download the items using the included script. This script will obtain the filenames and scrape the flash files, putting them in folders named by their first two characters (to reduce strain on file explorers). If you lose connection, you can continue where you left off: change the start page to the last one you've edited.
 
-You can use this exported data to create your own web viewable Macrochan! Though please, make a real API with generated JSON, so we won't have to go through this horrifying export process again.
+        python 4-download-items.py 1 262
+
+Everything is stored under `dagobah`, from the JSON gallery page dumps in `gallery/` to the `images/` folder.

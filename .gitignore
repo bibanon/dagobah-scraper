@@ -1,2 +1,3 @@
 # ignore the workdir
 dagobah/
+dagobah-*/

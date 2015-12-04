@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# BASC Dagobah Scraper: 1-gallery-scraper.py
+# Designed to obtain all metadata from Dagobah's paginated gallery.
+
 from pyquery import PyQuery
 import lxml
 import re
@@ -137,5 +140,5 @@ if __name__ == '__main__':
         # grab a gallery page 
         gallery = paginator(first_page, last_page)
     else:
-        print "Usage: %s <first_page> <last_page>" % argv[0]
+        print("Usage: %s <first_page> <last_page>" % argv[0])
         exit()

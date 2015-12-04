@@ -231,7 +231,6 @@ We can convert it to a SQL database after all data gets scraped.
 ### URL Schema
 
 * `http://dagobah.net/flash/404.swf` - File viewing URL.
-* `http://dagobah.net/flash/download/404.swf` - File download URL.
 * `http://dagobah.net/flashswf/404.swf` - File embed URL.
 * `http://dagobah.net/flash/404.swf/comments` - Comment URL.
 * `http://dagobah.net/t100/404.swf` - 100x100px thumbnail URL.

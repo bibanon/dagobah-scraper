@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# BASC Dagobah Scraper: 2-comment-scraper.py
+# Designed to obtain all comments and tags for every item and put them in the gallery database.
+
 from pyquery import PyQuery
 import re
 from sys import argv
@@ -84,25 +87,35 @@ def comments2object(gallery_page):
         for elements in pq('div.c5t_comment_item').items():
             comment = {}
             for div in elements.find('div').items():
-                # title of the comment (optional)
-                if div.hasClass('c5t_comment_item_title'):
-                    comment['title'] = div.text()
+                try:        # try/except for pesky corrupt unicode strings
+                    # title of the comment (optional)
+                    if div.hasClass('c5t_comment_item_title'):
+                        # try/except for pesky corrupt unicode strings
+                        try:
+                            comment['title'] = div.text()
+                        except UnicodeDecodeError as ude:
+                            print("Error: Corrupt unicode characters in title, not archived.")
+                            comment['title'] = "Error: Corrupt Title."
+                        
+                    if div.hasClass('c5t_comment_item_text'):
+                            comment['text'] = div.text()
+                        
+                    if div.hasClass('c5t_comment_item_details'):
+                        # item: #2 - High-guy - 09/14/2013 - 15:36
+                        # format: ['lolzors', '12/29/2010', '16:44']
+                        # month = 1, day = 2, year = 3
+                        details = re.findall(r'#\d+ -(.+)- (\d+)/(\d+)/(\d\d\d\d) - (\d\d):(\d\d)', div.text())[0]
+                        
+                        comment['username'] = details[0].strip()
+                        
+                        # convert date + time into datetime object
+                        date = datetime(int(details[3]), int(details[1]), int(details[2]), int(details[4]), int(details[5]))
+                        comment['date'] = str(date.date())
+                        comment['time'] = str(date.time())
                     
-                if div.hasClass('c5t_comment_item_text'):
-                    comment['text'] = div.text()
-                    
-                if div.hasClass('c5t_comment_item_details'):
-                    # item: #2 - High-guy - 09/14/2013 - 15:36
-                    # format: ['lolzors', '12/29/2010', '16:44']
-                    # month = 1, day = 2, year = 3
-                    details = re.findall(r'#\d+ -(.+)- (\d+)/(\d+)/(\d\d\d\d) - (\d\d):(\d\d)', div.text())[0]
-                    
-                    comment['username'] = details[0].strip()
-                    
-                    # convert date + time into datetime object
-                    date = datetime(int(details[3]), int(details[1]), int(details[2]), int(details[4]), int(details[5]))
-                    comment['date'] = str(date.date())
-                    comment['time'] = str(date.time())
+                except UnicodeDecodeError as ude:
+                    print("Error: Corrupt unicode characters in comment, not archived.")
+                    continue
                     
             # add elements of comment to thread
             print(comment)
@@ -119,5 +132,5 @@ if __name__ == '__main__':
         
         metadator(first_page, last_page)
     else:
-        print "Usage: %s <first_page> <last_page>" % argv[0]
+        print("Usage: %s <first_page> <last_page>" % argv[0])
         exit()
