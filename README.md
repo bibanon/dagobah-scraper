@@ -1,6 +1,6 @@
 Dagobah is a large archive of ancient 4chan flash animations, dating all the way back to 2008 when the site was first founded. Anyone can upload files to this site.
 
-Because of it's 45,175+ image collection containing flash animations that date from 4chan's earliest history, the Bibliotheca Anonoma is conducting a contingency archival of the site.
+Because of it's 13099+ collection containing flash animations that date from 4chan's earliest history, the Bibliotheca Anonoma is conducting a contingency archival of the site.
 
 We will use custom built Python scraping scripts to reduce strain on the server, and avoid the many pitfalls encountered by scraping an automatically generated database view.
 
