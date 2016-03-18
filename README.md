@@ -1,8 +1,10 @@
-Dagobah is a large archive of ancient 4chan flash animations, dating all the way back to 2008 when the site was first founded. Anyone can upload files to this site.
+[Dagobah](http://dagobah.net) is a large archive of ancient 4chan flash animations, dating all the way back to 2008 when the site was first founded. Anyone can upload files to this site.
 
 Because of it's 13099+ collection containing flash animations that date from 4chan's earliest history, the Bibliotheca Anonoma is conducting a contingency archival of the site.
 
-We will use custom built Python scraping scripts to reduce strain on the server, and avoid the many pitfalls encountered by scraping an automatically generated database view.
+We used custom built Python scraping scripts to reduce strain on the server, and avoid the many pitfalls encountered by scraping an automatically generated database view.
+
+The archives can now be found at: http://archive.org/details/dagobah-net , in both SWF only `dagobah-files-2015-12-04.tar.xz` and WARC folders: `dagobah-2015-12-05-72e833ef/` `dagobah-comments-2015-12-05`. This contains 13,099 flashes at 30GBs.
 
 ## Using this Scraper
 
